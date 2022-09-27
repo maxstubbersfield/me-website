@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="{{lang}}">
+<head>
+  {% include "basehead.njk" %}
+  
+  {% block plugincss %}  
+  {% endblock %}
+</head>
+<body data-theme-mode-panel-active data-theme="light" style="font-family: 'Mazzard H';" class="loading">
+  <div class="site-wrapper overflow-hidden position-relative{{PAGE_INFO.page_wrapper_class}}">
+      {% block main %}
+    
+      {% endblock %}
+  </div>
+
+  <!-- Vendor Scripts -->
+  <script src="/js/vendor.min.js"></script>
+
+  <!-- Plugin's Scripts -->
+  <script src="/plugins/jquery/jquery.min.js"></script>
+  <script src="/plugins/jquery/jquery-migrate.min.js"></script>
+  <script src="/plugins/fancybox/jquery.fancybox.min.js"></script>
+
+  <script src="/plugins/nice-select/jquery.nice-select.min.js"></script>
+  <script src="/plugins/aos/aos.min.js"></script>
+  <script src="/plugins/slick/slick.min.js"></script>
+  <script src="https://porjoton.netlify.app/mekanic/js/waypoints.min.js"></script>
+  <script src="/plugins/counter-up/jquery.counterup.min.js"></script>
+
+  <script src="/plugins/isotope/isotope.pkgd.min.js"></script>
+  <script src="/plugins/isotope/packery.pkgd.min.js"></script>
+  <script src="/plugins/isotope/image.loaded.js"></script>
+  <script src="/plugins/menu/menu.js"></script>
+
+  
+  {% block pluginjs %}
+    
+  {% endblock %}
+
+  <!-- Activation Script -->
+  <script src="/js/custom.js"></script>
+</body>
+</html>
