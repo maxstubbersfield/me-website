@@ -2264,7 +2264,7 @@ li.sub-menu--item.nav-item-has-children i {
 .video-area-l-17 {
   background: #FFFFFF;
   padding-top: 45px;
-  padding-bottom: 0px;
+  padding-bottom: 45px;
 }
 
 @media (min-width: 768px) {
@@ -2279,6 +2279,11 @@ li.sub-menu--item.nav-item-has-children i {
     padding-top: 100px;
     padding-bottom: 100px;
   }
+}
+
+.video {
+  aspect-ratio: 16 / 9;
+  width: 100%;
 }
 
 /*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>      
@@ -2287,7 +2292,7 @@ li.sub-menu--item.nav-item-has-children i {
 .podcast-area {
   background: #3F5290;
   padding-top: 45px;
-  padding-bottom: 0px;
+  padding-bottom: 45px;
 }
 
 @media (min-width: 768px) {
@@ -2303,6 +2308,7 @@ li.sub-menu--item.nav-item-has-children i {
     padding-bottom: 100px;
   }
 }
+
 
 /*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>      
      Feature Area-L-16

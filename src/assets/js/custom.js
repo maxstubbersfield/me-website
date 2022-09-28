@@ -756,7 +756,7 @@ $(document).ready(function () {
          YouTube iFrame
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
 function setYouTubeVideoSrc() {
-    var vidDefer = document.getElementsByClassName('video-iframe');
+    var vidDefer = document.getElementsByClassName('video');
     for (var i = 0; i < vidDefer.length; i++) {
         if (vidDefer[i].getAttribute('data-src')) {
             vidDefer[i].setAttribute('src', vidDefer[i].getAttribute('data-src'));
