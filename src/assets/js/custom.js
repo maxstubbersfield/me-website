@@ -91,25 +91,9 @@ $(document).ready(function () {
             dots: true,
             swipe: true,
             infinite: true,
-            prevArrow: '<button class="slide-btn slick-prev focus-reset"><i class="icon icon-stre-left"></i></button>',
-            nextArrow: '<button class="slide-btn slick-next focus-reset "><i class="icon icon-stre-right"></i></button>',
-            autoplaySpeed: 2000,
-            responsive: [{
-                breakpoint: 1199,
-                settings: {
-                    centerPadding: '10%',
-                    slidesToShow: 1
-                }
-            },
-            {
-                breakpoint: 767,
-                settings: {
-                    centerPadding: '20px',
-                    slidesToShow: 1
-                }
-            }
-
-            ]
+            prevArrow: $('.slick-prev'),
+            nextArrow: $('.slick-next'),
+            autoplaySpeed: 10000,
         });
     }
 
@@ -120,14 +104,12 @@ $(document).ready(function () {
         scrollFunction();
     };
     window.onload = function () {
-        $("body").removeClass("loading");
         scrollFunction();
         setYouTubeVideoSrc();
     };
     window.onbeforeunload = function () {
         window.scrollTo({ top: 0, left: 0, behavior: "instant" });
         $(".site-header--sticky").removeClass("reveal-header");
-        $("body").addClass("loading");
     }
     function scrollFunction() {
         if (
@@ -194,28 +176,6 @@ $(document).ready(function () {
             $(this).addClass("active");
         });
     });
-
-    /*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>      
-           Landing 16 testimonial Slider
-       <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
-
-    if (jQuery(".testimonial-slider-l-16").length > 0) {
-        $(".testimonial-slider-l-16").slick({
-            dots: false,
-            arrows: true,
-            infinite: true,
-            speed: 500,
-            slidesToShow: 2,
-            slidesToScroll: 2,
-            responsive: [{
-                breakpoint: 992,
-                settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1,
-                },
-            },],
-        });
-    }
 });
 
 
