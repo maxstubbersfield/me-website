@@ -2176,7 +2176,7 @@ li.sub-menu--item.nav-item-has-children i {
             Video Area
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
 .video-area {
-  background: #3F5290;
+  background: #F8FAFF;
   padding-top: 45px;
   padding-bottom: 45px;
 }
@@ -2204,7 +2204,7 @@ li.sub-menu--item.nav-item-has-children i {
             Podcast Area
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
 .podcast-area {
-  background: #FFFFFF;
+  background: #F8FAFF;
   padding-top: 45px;
   padding-bottom: 45px;
 }
@@ -2228,21 +2228,22 @@ li.sub-menu--item.nav-item-has-children i {
      Feature Area-L-16
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
 .feature-area-l6 {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  background-color: #FFFFFF;
+  padding-top: 45px;
+  padding-bottom: 45px;
 }
 
 @media (min-width: 768px) {
   .feature-area-l6 {
     padding-top: 80px;
-    padding-bottom: 80px;
+    padding-bottom: 60px;
   }
 }
 
 @media (min-width: 992px) {
   .feature-area-l6 {
-    padding-top: 120px;
-    padding-bottom: 120px;
+    padding-top: 100px;
+    padding-bottom: 100px;
   }
 }
 
@@ -2266,15 +2267,24 @@ li.sub-menu--item.nav-item-has-children i {
   }
 }
 
+.feature-area-l6 .top-header {
+  margin-bottom: 60px;
+}
+
+.feature-area-l6 .content-area .icon {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 30px;
+}
+
 .feature-area-l6 .content-area h1 {
   font-family: Inter;
   font-style: normal;
   font-weight: 800;
   font-size: 56px;
   line-height: 64px;
-  color: #000000;
+  color: #1D263A;
   mix-blend-mode: normal;
-  opacity: 0.15;
   margin-bottom: 60px;
 }
 
@@ -2284,7 +2294,7 @@ li.sub-menu--item.nav-item-has-children i {
   font-weight: bold;
   font-size: 22px;
   line-height: 34px;
-  color: #000000;
+  color: #1D263A;
   margin-bottom: 25px;
 }
 
@@ -2294,150 +2304,15 @@ li.sub-menu--item.nav-item-has-children i {
   font-weight: normal;
   font-size: 18px;
   line-height: 34px;
-  color: #323232;
+  color: #1D263A;
   margin-bottom: 0;
-}
-
-/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>      
-     Content Area 1-L-16
-  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
-.content-area-1-l-16 .content {
-  padding-top: 45px;
-}
-
-@media (min-width: 992px) {
-  .content-area-1-l-16 .content {
-    padding-top: 0px;
-  }
-}
-
-.content-area-1-l-16 .content span {
-  font-family: Inter;
-  font-style: normal;
-  font-weight: 600;
-  font-size: 12px;
-  line-height: 15px;
-  text-transform: uppercase;
-  color: #FFFFFF;
-  display: inline-block;
-  background: #FA8231;
-  border-radius: 15px;
-  padding: 8px 20px;
-  margin-bottom: 30px;
-  display: inline-flex;
-  align-items: center;
-}
-
-.content-area-1-l-16 .content span i {
-  margin-right: 10px;
-}
-
-@media (min-width: 992px) {
-  .content-area-1-l-16 .image-area {
-    margin-bottom: -155px;
-  }
-}
-
-.content-area-1-l-16 .image-area img {
-  border-radius: 55px;
-}
-
-/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>      
-     Content Area 2-L-16
-  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
-.content-area-2-l-16 {
-  padding-top: 60px;
-}
-
-@media (min-width: 768px) {
-  .content-area-2-l-16 {
-    padding-top: 80px;
-  }
-}
-
-@media (min-width: 992px) {
-  .content-area-2-l-16 {
-    padding-top: 130px;
-  }
-}
-
-.content-area-2-l-16 .content {
-  padding-top: 45px;
-}
-
-@media (min-width: 992px) {
-  .content-area-2-l-16 .content {
-    padding-top: 0px;
-  }
-}
-
-.content-area-2-l-16 .content h2 {
-  margin-bottom: 40px;
-}
-
-@media (min-width: 768px) {
-  .content-area-2-l-16 .content h2 {
-    margin-bottom: 50px;
-  }
-}
-
-@media (min-width: 992px) {
-  .content-area-2-l-16 .content h2 {
-    margin-bottom: 70px;
-  }
-}
-
-.content-area-2-l-16 .content .single-item {
-  margin-bottom: 40px;
-}
-
-.content-area-2-l-16 .content .single-item i {
-  margin-right: 25px;
-  color: #fff;
-  background: #2780FF;
-  height: 55px;
-  width: 55px;
-  line-height: 55px;
-  text-align: center;
-  font-size: x-large;
-}
-
-.content-area-2-l-16 .content .content-body {
-  margin-top: -8px;
-}
-
-.content-area-2-l-16 .content .content-body h4 {
-  font-family: Inter;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 22px;
-  line-height: 34px;
-  color: #000000;
-}
-
-.content-area-2-l-16 .content .content-body p {
-  font-family: Inter;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 18px;
-  line-height: 34px;
-  color: #323232;
-}
-
-@media (min-width: 992px) {
-  .content-area-2-l-16 .image-area {
-    margin-bottom: -155px;
-  }
-}
-
-.content-area-2-l-16 .image-area img {
-  border-radius: 55px;
 }
 
 /*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>      
      Footer Area-L-16
   <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
 .footer-area-l-16 {
+  background-color: #1D263A;
   padding-top: 55px;
   padding-bottom: 30px;
 }

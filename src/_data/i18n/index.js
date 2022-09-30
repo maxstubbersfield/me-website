@@ -33,7 +33,7 @@ module.exports = {
             },
         },
         features: {
-            slide1: {
+            slide_1: {
                 title: {
                     'en': 'Why do I feel bad? And what can I do to get better?',
                     'de': ''
@@ -43,11 +43,11 @@ module.exports = {
                     'de': ''
                 },
                 image_alt: {
-                    'en': 'Analysis screen in the Me app.',
+                    'en': '',
                     'de': ''
                 },
             },
-            slide2: {
+            slide_2: {
                 title: {
                     'en': 'Different Problems -\nSame Solution',
                     'de': ''
@@ -57,11 +57,11 @@ module.exports = {
                     'de': ''
                 },
                 image_alt: {
-                    'en': 'Analysis screen in the Me app.',
+                    'en': '',
                     'de': ''
                 },
             },
-            slide3: {
+            slide_3: {
                 title: {
                     'en': 'Your personal journal, always in your pocket',
                     'de': ''
@@ -71,24 +71,88 @@ module.exports = {
                     'de': ''
                 },
                 image_alt: {
-                    'en': 'Analysis screen in the Me app.',
+                    'en': '',
                     'de': ''
                 },
             },
-            slide4: {
+            slide_4: {
                 title: {
                     'en': 'Dig deeper into your mind',
                     'de': ''
                 },
                 description: {
-                    'en': 'It’s worth it!\nExplore your unconscious thoughts & emotions to learn where your behavioral patterns come from and how you can change them.',
+                    'en': "It's worth it!\nExplore your unconscious thoughts & emotions to learn where your behavioral patterns come from and how you can change them.",
                     'de': ''
                 },
                 image_alt: {
-                    'en': 'Analysis screen in the Me app.',
+                    'en': '',
                     'de': ''
                 },
             },
+        },
+        video: {
+            title: {
+                'en': 'Everyone can benefit from self-reflection',
+                'de': ''
+            },
+        },
+        security_and_privacy: {
+            title: {
+                'en': 'Data Privacy & Security',
+                'de': ''
+            },
+            subtitle: {
+                'en': 'We will never sell, analyze or even see your data!',
+                'de': ''
+            },
+            point_1: {
+                title: {
+                    'en': 'Locally on your phone',
+                    'de': ''
+                },
+                description: {
+                    'en': 'No sensitive data gets sent to any server in the cloud. Your data is only stored locally on your phone.',
+                    'de': ''
+                },
+                image_alt: {
+                    'en': 'Cloud with strike through it',
+                    'de': ''
+                },
+            },
+            point_2: {
+                title: {
+                    'en': 'Encrypted',
+                    'de': ''
+                },
+                description: {
+                    'en': 'The data on your phone is encrypted and can only be unlocked with your credentials.',
+                    'de': ''
+                },
+                image_alt: {
+                    'en': 'Lock',
+                    'de': ''
+                },
+            },
+            point_3: {
+                title: {
+                    'en': 'No Tracking',
+                    'de': ''
+                },
+                description: {
+                    'en': "We don't collect analytics data about your user behaviour to make sure that you are completely anonymous in our app.",
+                    'de': ''
+                },
+                image_alt: {
+                    'en': 'Crosshair-like circle with strike',
+                    'de': ''
+                },
+            },
+        }
+    },
+    footer: {
+        copyright: {
+            'en': 'Me GbR All right reserved.',
+            'de': ''
         }
     }
 };
