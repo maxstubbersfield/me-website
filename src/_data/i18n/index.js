@@ -17,7 +17,7 @@ module.exports = {
             },
             subtitle: {
                 'en': 'Deep Self Reflection • Journaling • Mood Tracking',
-                'de': ''
+                'de': 'Tiefe Selbstreflexion • Tagebuchführen • Stimmungstracking'
             },
             app_store_badge_alt: {
                 'en': 'App Store download button',
@@ -36,11 +36,11 @@ module.exports = {
             slide_1: {
                 title: {
                     'en': 'Why do I feel bad? And what can I do to get better?',
-                    'de': ''
+                    'de': 'Warum fühle ich mich schlecht? Undd was kann ich tun, um mich besser zu fühlen?'
                 },
                 description: {
-                    'en': 'Identify the origin of your problems by tracking both mental and physical biomarkers over time.\nConnect your wearables with the Me app to analyse your sleep, your stress and many other things.',
-                    'de': ''
+                    'en': 'Identify the origin of your problems through regular self-reflection exercises',
+                    'de': 'Finde die Ursachen deiner Probleme durch regelmäßige Selbstreflexions-Übungen.'
                 },
                 image_alt: {
                     'en': '',
@@ -50,11 +50,11 @@ module.exports = {
             slide_2: {
                 title: {
                     'en': 'Different Problems -\nSame Solution',
-                    'de': ''
+                    'de': 'Verschiedene Probleme -\n Gleiche Lösung'
                 },
                 description: {
                     'en': 'Address your emotional challenges in different areas of your life with easy to understand concepts from psychotherapy.',
-                    'de': ''
+                    'de': 'Bearbeite die emotionalen Herausforderungen in deinem Leben mit leicht verständlichen Methoden aus der Psychotherapie'
                 },
                 image_alt: {
                     'en': '',
@@ -64,11 +64,11 @@ module.exports = {
             slide_3: {
                 title: {
                     'en': 'Your personal journal, always in your pocket',
-                    'de': ''
+                    'de': 'Dein Tagebuch, immer in deiner Tasche'
                 },
                 description: {
                     'en': 'Build a habit of self-reflection to understand yourself better. Work with guided gratefulness exercises & affirmations to develop a more positive outlook on life.',
-                    'de': ''
+                    'de': 'Mach Selbstreflexion zu einer Gewohnheit, um dich selbst besser zu verstehen. Arbeite mit geführten Dankbarkeitsübungen und Affirmationen um einen positiveren Blick auf das Leben zu gewinnen.'
                 },
                 image_alt: {
                     'en': '',
@@ -78,11 +78,11 @@ module.exports = {
             slide_4: {
                 title: {
                     'en': 'Dig deeper into your mind',
-                    'de': ''
+                    'de': 'Erforsche die Tiefen deine Psyche'
                 },
                 description: {
                     'en': "It's worth it!\nExplore your unconscious thoughts & emotions to learn where your behavioral patterns come from and how you can change them.",
-                    'de': ''
+                    'de': 'Es lohnt sich!\nErgründe deine unbewussten Emotionen & Gedanken, um zu lernen wo deine Verhaltensmuster herkommen und wie du sie ändern kannst.'
                 },
                 image_alt: {
                     'en': '',
@@ -93,58 +93,58 @@ module.exports = {
         video: {
             title: {
                 'en': 'Everyone can benefit from self-reflection',
-                'de': ''
+                'de': 'Wir alle können von Selbstreflexion profitieren'
             },
         },
         security_and_privacy: {
             title: {
                 'en': 'Data Privacy & Security',
-                'de': ''
+                'de': 'Datenschutz & Privatsphäre'
             },
             subtitle: {
                 'en': 'We will never sell, analyze or even see your data!',
-                'de': ''
+                'de': 'Wir werrden deine Daten nie verkaufen, analysieren oder einsehen können'
             },
             point_1: {
                 title: {
                     'en': 'Locally on your phone',
-                    'de': ''
+                    'de': 'Lokale Datenspeicherung'
                 },
                 description: {
                     'en': 'No sensitive data gets sent to any server in the cloud. Your data is only stored locally on your phone.',
-                    'de': ''
+                    'de': 'Sensitive Daten werden an keinen Server in der Cloud gesendet. Deine Daten werden ausschließlich auf deinem Smartphone gespeichert.'
                 },
                 image_alt: {
                     'en': 'Cloud with strike through it',
-                    'de': ''
+                    'de': 'durchgestrichene Cloud'
                 },
             },
             point_2: {
                 title: {
                     'en': 'Encrypted',
-                    'de': ''
+                    'de': 'Verschlüsselt'
                 },
                 description: {
                     'en': 'The data on your phone is encrypted and can only be unlocked with your credentials.',
-                    'de': ''
+                    'de': 'Die Daten auf deinem Smartphone sind verschlüsselt und können nur von dir entschlüsselt werden.'
                 },
                 image_alt: {
                     'en': 'Lock',
-                    'de': ''
+                    'de': 'Schloss'
                 },
             },
             point_3: {
                 title: {
                     'en': 'No Tracking',
-                    'de': ''
+                    'de': 'Kein Tracking'
                 },
                 description: {
                     'en': "We don't collect analytics data about your user behaviour to make sure that you are completely anonymous in our app.",
-                    'de': ''
+                    'de': 'Wir sammeln keine Analysedaten über dein Nutzungsverhalten, um sicherzustellen, dass du in der App vollständig anonym bleibst.'
                 },
                 image_alt: {
                     'en': 'Crosshair-like circle with strike',
-                    'de': ''
+                    'de': 'Durchgestrichenes Schild'
                 },
             },
         },
@@ -160,39 +160,43 @@ module.exports = {
             bia: {
                 image_alt: {
                     'en': 'Berlin Innovation Agency - Future Health Accelerator logo',
-                    'de': ''
+                    'de': 'Berlin Innovation Agency - Future Health Accelerator logo'
                 },
             },
             eu_funds: {
                 image_alt: {
                     'en': 'European Union Social Funds logo',
-                    'de': ''
+                    'de': 'ESF logo Europäische Union Sozialfond'
                 },
             },
             berlin_senate: {
                 image_alt: {
                     'en': 'Berlin Senate logo',
-                    'de': ''
+                    'de': 'Berliner Senat Logo'
                 },
             },
         },
         copyright: {
             'en': 'Me GbR All right reserved.',
-            'de': ''
+            'de': 'Me GbR alle Rechte vorbehalten'
         },
         links: {
             website_privacy_policy: {
                 'en': 'Website Privacy Policy',
-                'de': ''
+                'de': 'Datenschutzerklärung Website'
             },
             app_privacy_policy: {
                 'en': 'App Privacy Policy',
-                'de': ''
+                'de': 'Datenschutzerklärung App'
             },
             terms_and_conditions: {
                 'en': 'Terms & Conditions',
-                'de': ''
+                'de': 'All­ge­meine Geschäfts­be­din­gun­gen'
             },
+            imprint: {
+                'en': 'Imprint',
+                'de': 'Impressum'
+            }
         }
     }
 };
