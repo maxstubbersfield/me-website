@@ -198,5 +198,15 @@ module.exports = {
                 'de': 'Impressum'
             }
         }
+    },
+    error_404: {
+        title: {
+            'en': 'Oops!',
+            'de': ''
+        },
+        description: {
+            'en': 'The page you are looking for could not be found.',
+            'de': ''
+        }
     }
 };

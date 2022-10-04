@@ -1,0 +1,42 @@
+{% extends "layouts/base.njk" %}
+{% block head %}{% endblock %}
+
+{% import '../partials/header.njk' as Header %}
+{% import '../partials/footer.njk' as Footer with context %}
+{% import '../partials/feature_slide.njk' as FeatureSlide with context %}
+
+{% block main %}
+    <!-- Site Header -->
+    {{ Header.render({
+"additional_header_class": "site-header--menu-right landing-16-menu",
+"absolute_header" : "true",
+container_fluid : true,
+sticky_header :true,
+menu_wrapper_class : "mx-auto",
+hideMegamenu : false,
+header_button : "true",
+additional_button_classes : "header-btn-l-16 ms-auto d-none d-xs-inline-flex"
+}) }}
+
+    <!-- Error Area -->
+    <div class="error-area min-vh-100">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-xl-5 col-lg-6 col-md-8 col-sm-10">
+                    <div class="error-area-content text-center">
+                        <h2>{{ 'error_404.title' | i18n }}</h2>
+                        <p>{{ 'error_404.description' | i18n }}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    {{ Footer.render('footer.copyright',
+    'footer.links.website_privacy_policy',
+    'footer.links.app_privacy_policy',
+    'footer.links.terms_and_conditions',
+    'footer.links.imprint')}}
+
+{% endblock %}
