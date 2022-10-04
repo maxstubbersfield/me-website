@@ -713,7 +713,7 @@ body[data-theme=light] .dark-mode-texts .light-shape.default-shape,
     cursor: pointer;
     line-height: 50px;
     text-align: center;
-    color: #000000;
+    color: #1D263A;
     font-size: 16px;
     display: none;
   }
@@ -725,7 +725,7 @@ body[data-theme=light] .dark-mode-texts .light-shape.default-shape,
   .site-header .menu-block .mobile-menu-head .current-menu-title {
     font-size: 15px;
     font-weight: 500;
-    color: #000000;
+    color: #1D263A;
     visibility: hidden;
   }
 
@@ -740,7 +740,7 @@ body[data-theme=light] .dark-mode-texts .light-shape.default-shape,
     cursor: pointer;
     line-height: 50px;
     text-align: center;
-    color: #000000;
+    color: #1D263A;
     font-size: 25px;
   }
 
@@ -1752,8 +1752,7 @@ li.sub-menu--item.nav-item-has-children i {
 
 /*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>      
    Hero Area-L-16
-
-        <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
 .landing-16-menu .site-menu-main .nav-link-item {
   font-family: Inter;
   color: #1f1f1f;
@@ -1813,12 +1812,19 @@ li.sub-menu--item.nav-item-has-children i {
   position: relative;
   z-index: 5;
   padding-top: 25px;
-  padding-bottom: 0px;
+  margin-bottom: 40px;
+}
+
+@media (min-width: 576px) {
+  .hero-area-l-16 .content {
+    padding-right: 5px;
+  }
 }
 
 @media (min-width: 992px) {
   .hero-area-l-16 .content {
     padding-right: 5px;
+    margin-bottom: 0px;
     padding-top: 0;
   }
 }
@@ -1886,27 +1892,20 @@ li.sub-menu--item.nav-item-has-children i {
   font-size: 20px;
   line-height: 34px;
   color: #000000;
-  margin: 30px 0px 38px 0px;
-}
-
-.hero-area-l-16 .hero-img-container {
-  margin-top: 0px;
-}
-
-@media (min-width: 992px) {
-  .hero-area-l-16 .hero-img-container {
-    margin-top: 0;
-  }
 }
 
 .hero-area-l-16 .hero-img-container .hero-img {
-  height: 700px;
+  max-height: 700px;
 }
 
 @media (min-width: 768px) {
   .hero-area-l-16 .hero-img-container .hero-img {
-    height: 800px;
+    max-height: 800px;
   }
+}
+
+.hero-area-l-16 .content .hero-btns a {
+  margin-right: 15px;
 }
 
 /*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>      
@@ -2060,7 +2059,7 @@ li.sub-menu--item.nav-item-has-children i {
             Podcast Area
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
 .podcast-area {
-  background: #F8FAFF;
+  background: #fff;
   padding-top: 45px;
   padding-bottom: 45px;
 }
@@ -2081,59 +2080,59 @@ li.sub-menu--item.nav-item-has-children i {
 
 
 /*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>      
-     Feature Area-L-16
+     Privacy & Security Area
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
-.feature-area-l6 {
-  background-color: #FFFFFF;
+.privacy-and-security-area {
+  background-color: #E6E9FF;
   padding-top: 45px;
   padding-bottom: 45px;
 }
 
 @media (min-width: 768px) {
-  .feature-area-l6 {
+  .privacy-and-security-area {
     padding-top: 80px;
     padding-bottom: 60px;
   }
 }
 
 @media (min-width: 992px) {
-  .feature-area-l6 {
+  .privacy-and-security-area {
     padding-top: 100px;
     padding-bottom: 100px;
   }
 }
 
-.feature-area-l6 .feature-area-l6-items {
+.privacy-and-security-area .privacy-and-security-area-items {
   margin-bottom: -30px;
 }
 
-.feature-area-l6 .feature-area-l6-items .col-lg-4 {
+.privacy-and-security-area .privacy-and-security-area-items .col-lg-4 {
   margin-bottom: 30px;
 }
 
 @media (min-width: 992px) {
-  .feature-area-l6 .content-area {
+  .privacy-and-security-area .content-area {
     padding-right: 10px;
   }
 }
 
 @media (min-width: 1200px) {
-  .feature-area-l6 .content-area {
+  .privacy-and-security-area .content-area {
     padding-right: 96px;
   }
 }
 
-.feature-area-l6 .top-header {
+.privacy-and-security-area .top-header {
   margin-bottom: 60px;
 }
 
-.feature-area-l6 .content-area .icon {
+.privacy-and-security-area .content-area .icon {
   width: 100px;
   height: 100px;
   margin-bottom: 30px;
 }
 
-.feature-area-l6 .content-area h1 {
+.privacy-and-security-area .content-area h1 {
   font-family: Inter;
   font-style: normal;
   font-weight: 800;
@@ -2144,7 +2143,7 @@ li.sub-menu--item.nav-item-has-children i {
   margin-bottom: 60px;
 }
 
-.feature-area-l6 .content-area h6 {
+.privacy-and-security-area .content-area h6 {
   font-family: Inter;
   font-style: normal;
   font-weight: bold;
@@ -2154,7 +2153,7 @@ li.sub-menu--item.nav-item-has-children i {
   margin-bottom: 25px;
 }
 
-.feature-area-l6 .content-area p {
+.privacy-and-security-area .content-area p {
   font-family: Inter;
   font-style: normal;
   font-weight: normal;
@@ -2165,123 +2164,78 @@ li.sub-menu--item.nav-item-has-children i {
 }
 
 /*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>      
-     Footer Area-L-16
-  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
-.footer-area-l-16 {
-  background-color: #1D263A;
-  padding-top: 55px;
-  padding-bottom: 30px;
+           Partners Area
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
+.partners-area {
+  background-color: #FFFFFF;
+  padding-top: 45px;
+  padding-bottom: 45px;
 }
 
 @media (min-width: 768px) {
-  .footer-area-l-16 {
-    padding-top: 75px;
-    padding-bottom: 30px;
+  .partners-area {
+    padding-top: 80px;
+    padding-bottom: 60px;
   }
 }
 
 @media (min-width: 992px) {
-  .footer-area-l-16 {
-    padding-top: 95px;
-    padding-bottom: 30px;
+  .partners-area {
+    padding-top: 100px;
+    padding-bottom: 100px;
   }
 }
 
-.footer-area-l-16 .brand-logo {
-  margin-bottom: 30px;
+/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>      
+            Footer Area-L-17
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
+.footer-area {
+  background: #1D263A;
+  padding-top: 50px;
+  padding-bottom: 35px;
 }
 
-@media (min-width: 992px) {
-  .footer-area-l-16 .brand-logo {
-    margin-bottom: 0;
-    margin-right: 35px;
-  }
-}
-
-@media (min-width: 1600px) {
-  .footer-area-l-16 .content-body {
-    padding-right: 60px;
-  }
-}
-
-.footer-area-l-16 .content-body p {
-  font-family: Inter;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 18px;
-  line-height: 32px;
-  color: #000000;
-}
-
-.footer-area-l-16 .footer-single-item {
-  padding-top: 20px;
-}
-
-@media (min-width: 992px) {
-  .footer-area-l-16 .footer-single-item {
-    padding-top: 0;
-  }
-}
-
-.footer-area-l-16 .footer-single-item h6 {
-  font-family: Inter;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 18px;
-  line-height: 32px;
-  color: #000000;
-}
-
-.footer-area-l-16 .footer-single-item p {
-  font-family: Inter;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 18px;
-  line-height: 32px;
-  color: #000000;
-}
-
-.footer-area-l-16 .copyright-area {
-  margin-top: 40px;
-}
-
-@media (min-width: 768px) {
-  .footer-area-l-16 .copyright-area {
-    margin-top: 60px;
-  }
-}
-
-@media (min-width: 992px) {
-  .footer-area-l-16 .copyright-area {
-    margin-top: 80px;
-  }
-}
-
-.footer-area-l-16 .copyright-area p {
+.copyright-area .copyright p {
   font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
   line-height: 18px;
-  color: #000000;
+  color: #DBE4F1;
+  margin-bottom: 0;
 }
 
-.footer-area-l-16 .copyright-area .social-icons ul {
-  margin: 0px -10px 0px -10px;
+.copyright-area .footer-menu {
+  margin: 20px 0px 30px 0px;
 }
 
-.footer-area-l-16 .copyright-area .social-icons ul li {
-  margin: 0px 10px 0px 10px;
+@media (min-width: 768px) {
+  .copyright-area .footer-menu {
+    margin: 0;
+  }
 }
 
-.footer-area-l-16 .copyright-area .social-icons ul li i {
-  font-size: 22px;
-  color: #000000;
+.copyright-area .footer-menu ul {
+  margin: 0px -10px -15px -10px;
 }
+
+.copyright-area .footer-menu ul li {
+  margin: 0px 10px 15px 10px;
+}
+
+.copyright-area .footer-menu ul li a {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 18px;
+  color: #DBE4F1;
+}
+
 
 /*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>      
       404 Page
-    <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
 .error-page {
   padding-top: 108px;
   padding-bottom: 60px;

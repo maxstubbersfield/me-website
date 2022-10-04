@@ -147,12 +147,52 @@ module.exports = {
                     'de': ''
                 },
             },
-        }
+        },
+        partners: {
+            title: {
+                'en': 'Our Partners',
+                'de': ''
+            },
+        },
     },
     footer: {
+        partners: {
+            bia: {
+                image_alt: {
+                    'en': 'Berlin Innovation Agency - Future Health Accelerator logo',
+                    'de': ''
+                },
+            },
+            eu_funds: {
+                image_alt: {
+                    'en': 'European Union Social Funds logo',
+                    'de': ''
+                },
+            },
+            berlin_senate: {
+                image_alt: {
+                    'en': 'Berlin Senate logo',
+                    'de': ''
+                },
+            },
+        },
         copyright: {
             'en': 'Me GbR All right reserved.',
             'de': ''
+        },
+        links: {
+            website_privacy_policy: {
+                'en': 'Website Privacy Policy',
+                'de': ''
+            },
+            app_privacy_policy: {
+                'en': 'App Privacy Policy',
+                'de': ''
+            },
+            terms_and_conditions: {
+                'en': 'Terms & Conditions',
+                'de': ''
+            },
         }
     }
 };

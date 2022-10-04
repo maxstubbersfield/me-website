@@ -13,7 +13,7 @@ module.exports = function(eleventyConfig) {
         translations
       });
 
-    // eleventyConfig.setServerPassthroughCopyBehavior("copy");
+    eleventyConfig.setServerPassthroughCopyBehavior("copy");
 
     // Pass through copy
     eleventyConfig.addPassthroughCopy("src/assets/");
