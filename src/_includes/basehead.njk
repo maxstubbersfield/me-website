@@ -8,9 +8,9 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 
-<link rel="alternate" hreflang="{{page.lang}}" href="{{page.url}}">
+<link rel="alternate" hreflang="{{ page.lang }}" href="{{ site.url }}{{ page.url }}">
 {% for link in page.url | locale_links %}
-<link rel="alternate" hreflang="{{link.lang}}" href="https://www.know-yourself.me{{link.url}}">
+<link rel="alternate" hreflang="{{ link.lang }}" href="{{ site.url }}{{ link.url }}">
 {% endfor %}
 
 <!-- Bootstrap , fonts & icons  -->
