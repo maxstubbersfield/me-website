@@ -1,49 +1,16 @@
-{# #}
-
-{#
-==========================================
-Available variables
-==========================================
-| root: "./",
-| elmRoot: "./",
-| count: "stringNumber",
-| additional_header_class:"string",
-| absolute_header: bool,
-| sticky_header :bool,
-| mobile_sticky: bool,
-| container_fluid : bool,
-| container_fluid_class : "string",
-| menu_wrapper_class : "string"
-| hideMegamenu : bool,
-| megamenuPosition : string,
-| dropDownStyleTwo : bool,
-| header_button_custom : HTML,
-| header_button : "bool",
-| header_button_text : "string",
-| header_button_class : "string",
-| header_double_button : "bool",
-| additional_button_classes : "string",
-| additional_db_classes : "string",
-| header_button_class_1 : "string",
-| header_button_text_1 : "string",
-| header_button_class_2 : "string",
-| header_button_text_2 : "string",
-----------------------------------------
-#}
-
-{% macro render(settings, count) %}
+{% macro render() %}
 {% import "./menu.njk" as Menu %}
 
 <!--Site Header Area -->
 
 <header
-  class="site-header{{ ' ' + settings.additional_header_class if settings.additional_header_class }}{{ ' site-header--absolute' if settings.absolute_header}}{{ ' site-header--sticky' if settings.sticky_header}}{{ ' mobile-sticky-enable' if settings.mobile_sticky}}">
+  class="site-header site-header--menu-right landing-16-menu site-header--absolute site-header--sticky mobile-sticky-enable">
   <div
-    class="container{{ '-fluid' if  settings.container_fluid}}{{' ' + settings.container_fluid_class if  settings.container_fluid_class}}">
+    class="container-fluid">
     <nav class="navbar site-navbar">
       <!-- Brand Logo-->
       <div class="brand-logo">
-        <a href="#">
+        <a href="{{ "/" | locale_url }}">
           <img src="/assets/images/logo/me_logo2.svg" alt="Me logo" height="72" class="light-version-logo">
         </a>
       </div>
@@ -58,31 +25,9 @@ Available variables
             <div class="current-menu-title"></div>
             <div class="mobile-menu-close">&times;</div>
           </div>
-          {{Menu.render(settings.root,settings.elmRoot,
-          settings.hideMegamenu,settings.dropDownStyleTwo,settings.megamenuPosition)}}
+          {{Menu.render()}}
         </nav>
-
       </div>
-      {% if settings.header_button_custom %}
-      {{ settings.header_button_custom | safe}}
-      {% endif %}
-      {% if settings.header_button %}
-      <div class="header-btn {{  settings.additional_button_classes}}">
-        <a target="_blank" class="btn {{ settings.header_button_class}}" href="https://finestdevs.com/shade/">
-          {{ settings.header_button_text}}
-        </a>
-      </div>
-      {% endif %}
-      {% if settings.header_double_button %}
-      <div class="header-btns  {{  settings.additional_db_classes}}">
-        <a class="{{ settings.header_button_class_1}}" href="#">
-          {{ settings.header_button_text_1}}
-        </a>
-        <a class="{{ settings.header_button_class_2}}" href="#">
-          {{ settings.header_button_text_2}}
-        </a>
-      </div>
-      {% endif %}
 
       <!-- mobile menu trigger -->
       <div class="mobile-menu-trigger">
