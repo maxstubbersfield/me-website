@@ -11,8 +11,8 @@ Information in accordance with Section 5 TMG
 ## Address
 
 Me GbR‍  
-Mommsenstraße 5
-12203 Berlin
+Mommsenstraße 5  
+12203 Berlin  
 Germany
 
 ## Managing Directors

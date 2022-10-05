@@ -63,6 +63,37 @@ The Data concerning the User is collected to allow the Owner to provide its Serv
 
 For specific information about the Personal Data used for each purpose, the User may refer to the following articles.‍Personal Data is collected for the following purposes and using the following services:
 
+## § 4 Provision of the Website
+For the provision of our website we use the services of GitHub, Inc., Amazon Web Services, Inc., and Plausible Insights OÜ.
+
+These services have the purpose of hosting and running key components of our website.
+
+GitHub allows the Owner to run and host our website. Amazon Web Services allows the Owner to run and host the analytics of visiting traffic of the website. Plausible allows the Owner to analyze behaviour of visitors of the website.
+
+Personal Data processed: various types of Data as specified in the privacy policies of these services.  
+  
+[GitHub Privacy](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement)  
+[AWS Privacy Policy](https://aws.amazon.com/de/privacy/?nc1=f_pr)  
+[Plausible](https://plausible.io/data-policy)  
+   
+To ensure a secure and stable Internet presence, the browser you use on your terminal device automatically sends information to the server of our website service providers. This information is stored in a server log file until it is deleted. This applies to the following data:
+‍
+- IP address of the requesting computer
+- Browser type and browser version
+- Operating system used
+- Referrer URL (website from which access is made)
+- Hostname of the accessing computer
+- Usage information: pages you view 
+- Date and time of the server request
+- Telemetry data (i.e., information about how a specific feature or service is performing)
+- Information from cookies (such as cookie ID and settings)
+- Language preference
+- Device type and ID, and device model and manufacturer
+- Geolocation information
+
+Place of processing: United States
+
+
 ## § 4 Your rights as a visitor
 
 Information: 
