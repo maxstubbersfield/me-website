@@ -24,7 +24,7 @@ module.exports = function (eleventyConfig) {
 
   // Pass through copy
   eleventyConfig.addPassthroughCopy("src/assets/");
-  eleventyConfig.addPassthroughCopy("src/_redirects");
+  eleventyConfig.addPassthroughCopy("src/netlify.toml");
 
   // Watch
   eleventyConfig.addWatchTarget("src/assets/");

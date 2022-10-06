@@ -1,0 +1,39 @@
+# Home page - de
+[[redirects]]
+  from = "/"
+  to = "/de/"
+  status = 200
+  conditions = {Language = ["de"]}
+
+# Home page - default
+[[redirects]]
+  from = "/"
+  to = "/en/"
+  status = 200
+
+# Redirect for end-user’s browser preference override
+[[redirects]]
+  from = "/*"
+  to = "/de/:splat"
+  status = 302
+  conditions = {Language = ["de"]}
+
+# Default
+[[redirects]]
+  from = "/*"
+  to = "/en/:splat"
+  status = 302
+
+
+# 404 - de
+[[redirects]]
+  from = "*"
+  to = "/de/404"
+  status = 404
+  conditions = {Language = ["de"]}
+
+# 404 - default
+[[redirects]]
+  from = "*"
+  to = "/en/404"
+  status = 404
