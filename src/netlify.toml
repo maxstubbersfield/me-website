@@ -11,20 +11,6 @@
   to = "/en/"
   status = 200
 
-# Redirect for end-user’s browser preference override
-[[redirects]]
-  from = "/*"
-  to = "/de/:splat"
-  status = 302
-  conditions = {Language = ["de"]}
-
-# Default
-[[redirects]]
-  from = "/*"
-  to = "/en/:splat"
-  status = 302
-
-
 # 404 - de
 [[redirects]]
   from = "/de/*"
@@ -37,3 +23,16 @@
   from = "/en/*"
   to = "/en/404"
   status = 404
+
+# Redirect for end-user’s browser preference override
+[[redirects]]
+  from = "/*"
+  to = "/de/:splat"
+  status = 302
+  conditions = {Language = ["de"]}
+
+# Default
+[[redirects]]
+  from = "/*"
+  to = "/en/:splat"
+  status = 302
