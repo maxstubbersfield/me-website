@@ -21,11 +21,11 @@ module.exports = {
             },
             app_store_badge_alt: {
                 'en': 'App Store download button',
-                'de': 'Taste zum laden im App Store '
+                'de': 'Knopf zum laden im App Store'
             },
             play_store_badge_alt: {
                 'en': 'Play Store download button',
-                'de': 'Taste zum Herunterladen bei Google Play'
+                'de': 'Knopf zum Herunterladen bei Google Play'
             },
             image_alt: {
                 'en': 'App screenshot showing Mindspace screen in the Me app.',
