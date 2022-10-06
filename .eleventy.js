@@ -28,6 +28,7 @@ module.exports = function (eleventyConfig) {
 
   // Watch
   eleventyConfig.addWatchTarget("src/assets/");
+  eleventyConfig.addWatchTarget("src/_data/");
 
   return {
     dir: {

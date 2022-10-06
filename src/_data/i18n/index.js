@@ -28,7 +28,7 @@ module.exports = {
                 'de': 'Taste zum Herunterladen bei Google Play'
             },
             image_alt: {
-                'en': 'Mindspace screen in the Me app.',
+                'en': 'App screenshot showing Mindspace screen in the Me app.',
                 'de': ''
             },
         },
@@ -43,7 +43,7 @@ module.exports = {
                     'de': 'Finde die Ursachen deiner Probleme durch regelmäßige Selbstreflexions-Übungen.'
                 },
                 image_alt: {
-                    'en': 'Analysis screen showing graph of mood going up and down over time',
+                    'en': 'App screenshot showing graph of mood going up and down over time',
                     'de': ''
                 },
             },
@@ -57,7 +57,7 @@ module.exports = {
                     'de': 'Bearbeite die emotionalen Herausforderungen in deinem Leben mit leicht verständlichen Methoden aus der Psychotherapie'
                 },
                 image_alt: {
-                    'en': 'Screen showing selection list of ways in which the Me app can help them',
+                    'en': 'App screenshot showing selection list of ways in which the Me app can help them',
                     'de': ''
                 },
             },
@@ -71,7 +71,7 @@ module.exports = {
                     'de': 'Mach Selbstreflexion zu einer Gewohnheit, um dich selbst besser zu verstehen. Arbeite mit geführten Dankbarkeitsübungen und Affirmationen um einen positiveren Blick auf das Leben zu gewinnen.'
                 },
                 image_alt: {
-                    'en': 'Journal screen showing list of journal entries',
+                    'en': 'App screenshot showing list of journal entries',
                     'de': ''
                 },
             },
@@ -85,7 +85,7 @@ module.exports = {
                     'de': 'Es lohnt sich!\nErgründe deine unbewussten Emotionen & Gedanken, um zu lernen wo deine Verhaltensmuster herkommen und wie du sie ändern kannst.'
                 },
                 image_alt: {
-                    'en': 'Journal detail screen showing emotions, psychological needs, and narratives',
+                    'en': 'App screenshot showing a journal entry with emotions, psychological needs, and narratives',
                     'de': ''
                 },
             },
@@ -157,16 +157,16 @@ module.exports = {
     },
     footer: {
         partners: {
+            exist: {
+                image_alt: {
+                    'en': 'Logos of the Federal Ministry for Economic Affairs and Climate Action, EXIST, European Social Fund for Germany, and European Union.',
+                    'de': 'Logos von Bundesministerium für Wirtschaft und Klimaschutz, Existenzgründungen aus der Wissenschaft, Europäischer Sozialfonds für Deutschland, und Europäische Union.'
+                },
+            },
             bia: {
                 image_alt: {
                     'en': 'Berlin Innovation Agency - Future Health Accelerator logo',
                     'de': 'Berlin Innovation Agency - Future Health Accelerator logo'
-                },
-            },
-            eu_funds: {
-                image_alt: {
-                    'en': 'European Union Social Funds logo',
-                    'de': 'ESF logo Europäische Union Sozialfond'
                 },
             },
             berlin_senate: {
