@@ -64,15 +64,15 @@ The Data concerning the User is collected to allow the Owner to provide its Serv
 For specific information about the Personal Data used for each purpose, the User may refer to the following articles.‍Personal Data is collected for the following purposes and using the following services:
 
 ## § 4 Provision of the Website
-For the provision of our website we use the services of GitHub, Inc., Amazon Web Services, Inc., and Plausible Insights OÜ.
+For the provision of our website we use the services of Netlify, Inc., Amazon Web Services, Inc., and Plausible Insights OÜ.
 
 These services have the purpose of hosting and running key components of our website.
 
-GitHub allows the Owner to run and host our website. Amazon Web Services allows the Owner to run and host the analytics of visiting traffic of the website. Plausible allows the Owner to analyze behaviour of visitors of the website.
+Netlify allows the Owner to run and host our website. Amazon Web Services allows the Owner to run and host the analytics of visiting traffic of the website. Plausible allows the Owner to analyze behaviour of visitors of the website.
 
 Personal Data processed: various types of Data as specified in the privacy policies of these services.  
   
-[GitHub Privacy](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement)  
+[Netlify Privacy Policy](https://www.netlify.com/privacy)  
 [AWS Privacy Policy](https://aws.amazon.com/de/privacy/?nc1=f_pr)  
 [Plausible](https://plausible.io/data-policy)  
    
