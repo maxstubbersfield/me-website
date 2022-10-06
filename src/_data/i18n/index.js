@@ -21,11 +21,11 @@ module.exports = {
             },
             app_store_badge_alt: {
                 'en': 'App Store download button',
-                'de': ''
+                'de': 'Taste zum laden im App Store '
             },
             play_store_badge_alt: {
                 'en': 'Play Store download button',
-                'de': ''
+                'de': 'Taste zum Herunterladen bei Google Play'
             },
             image_alt: {
                 'en': 'Mindspace screen in the Me app.',
@@ -36,14 +36,14 @@ module.exports = {
             slide_1: {
                 title: {
                     'en': 'Why do I feel bad? And what can I do to get better?',
-                    'de': 'Warum fühle ich mich schlecht? Undd was kann ich tun, um mich besser zu fühlen?'
+                    'de': 'Warum fühle ich mich schlecht? Und was kann ich tun, um mich besser zu fühlen?'
                 },
                 description: {
                     'en': 'Identify the origin of your problems through regular self-reflection exercises',
                     'de': 'Finde die Ursachen deiner Probleme durch regelmäßige Selbstreflexions-Übungen.'
                 },
                 image_alt: {
-                    'en': '',
+                    'en': 'Analysis screen showing graph of mood going up and down over time',
                     'de': ''
                 },
             },
@@ -57,7 +57,7 @@ module.exports = {
                     'de': 'Bearbeite die emotionalen Herausforderungen in deinem Leben mit leicht verständlichen Methoden aus der Psychotherapie'
                 },
                 image_alt: {
-                    'en': '',
+                    'en': 'Screen showing selection list of ways in which the Me app can help them',
                     'de': ''
                 },
             },
@@ -71,21 +71,21 @@ module.exports = {
                     'de': 'Mach Selbstreflexion zu einer Gewohnheit, um dich selbst besser zu verstehen. Arbeite mit geführten Dankbarkeitsübungen und Affirmationen um einen positiveren Blick auf das Leben zu gewinnen.'
                 },
                 image_alt: {
-                    'en': '',
+                    'en': 'Journal screen showing list of journal entries',
                     'de': ''
                 },
             },
             slide_4: {
                 title: {
                     'en': 'Dig deeper into your mind',
-                    'de': 'Erforsche die Tiefen deine Psyche'
+                    'de': 'Erforsche die Tiefen deiner Psyche'
                 },
                 description: {
                     'en': "It's worth it!\nExplore your unconscious thoughts & emotions to learn where your behavioral patterns come from and how you can change them.",
                     'de': 'Es lohnt sich!\nErgründe deine unbewussten Emotionen & Gedanken, um zu lernen wo deine Verhaltensmuster herkommen und wie du sie ändern kannst.'
                 },
                 image_alt: {
-                    'en': '',
+                    'en': 'Journal detail screen showing emotions, psychological needs, and narratives',
                     'de': ''
                 },
             },
@@ -103,7 +103,7 @@ module.exports = {
             },
             subtitle: {
                 'en': 'We will never sell, analyze or even see your data!',
-                'de': 'Wir werrden deine Daten nie verkaufen, analysieren oder einsehen können'
+                'de': 'Wir werden deine Daten nie verkaufen, analysieren oder einsehen können'
             },
             point_1: {
                 title: {
@@ -151,7 +151,7 @@ module.exports = {
         partners: {
             title: {
                 'en': 'Our Partners',
-                'de': ''
+                'de': 'Unsere Partner'
             },
         },
     },
@@ -191,7 +191,7 @@ module.exports = {
             },
             terms_and_conditions: {
                 'en': 'Terms & Conditions',
-                'de': 'All­ge­meine Geschäfts­be­din­gun­gen'
+                'de': 'Allgemeine Geschäftsbedingungen'
             },
             imprint: {
                 'en': 'Imprint',
@@ -202,11 +202,11 @@ module.exports = {
     error_404: {
         title: {
             'en': 'Oops!',
-            'de': ''
+            'de': 'Hoppla!'
         },
         description: {
             'en': 'The page you are looking for could not be found.',
-            'de': ''
+            'de': 'Die aufgerufene Seite wurde leider nicht gefunden.'
         }
     }
 };
