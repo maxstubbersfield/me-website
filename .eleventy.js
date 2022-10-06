@@ -24,6 +24,7 @@ module.exports = function (eleventyConfig) {
 
   // Pass through copy
   eleventyConfig.addPassthroughCopy("src/assets/");
+  eleventyConfig.addPassthroughCopy("src/_redirects");
 
   // Watch
   eleventyConfig.addWatchTarget("src/assets/");
