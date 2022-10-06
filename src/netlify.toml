@@ -16,7 +16,6 @@
   from = "/de/*"
   to = "/de/404"
   status = 404
-  conditions = {Language = ["de"]}
 
 # 404 - default
 [[redirects]]
