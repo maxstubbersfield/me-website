@@ -29,7 +29,7 @@ module.exports = {
             },
             image_alt: {
                 en: "App screenshot showing Mindspace screen in the Me app.",
-                de: ""
+                de: "Bild des Mindspaces in der Me App"
             }
         },
         features: {
@@ -44,7 +44,7 @@ module.exports = {
                 },
                 image_alt: {
                     en: "App screenshot showing graph of mood going up and down over time",
-                    de: ""
+                    de: "Bild des Verlaufs der Stimmung über einen Zeitraum in der Me App"
                 }
             },
             slide_2: {
@@ -57,8 +57,8 @@ module.exports = {
                     de: "Bearbeite die emotionalen Herausforderungen in deinem Leben mit leicht verständlichen Methoden aus der Psychotherapie"
                 },
                 image_alt: {
-                    en: "App screenshot showing selection list of ways in which the Me app can help them",
-                    de: ""
+                    en: "App screenshot showing selection list of ways in which the Me app can help them through self-care",
+                    de: "Bild der Möglichkeiten, wie die Me App Nutzer:innen durch Selbstreflexion unterstützen kann"
                 }
             },
             slide_3: {
@@ -72,7 +72,7 @@ module.exports = {
                 },
                 image_alt: {
                     en: "App screenshot showing list of journal entries",
-                    de: ""
+                    de: "Bild der Tagebucheinträge des Stimmungstagebuchs"
                 }
             },
             slide_4: {
@@ -85,8 +85,8 @@ module.exports = {
                     de: "Es lohnt sich!\nErgründe deine unbewussten Emotionen & Gedanken, um zu lernen wo deine Verhaltensmuster herkommen und wie du sie ändern kannst."
                 },
                 image_alt: {
-                    en: "App screenshot showing a journal entry with emotions, psychological needs, and narratives",
-                    de: ""
+                    en: "App screenshot showing a journal entry with emotions, psychological needs, and beliefs",
+                    de: "Bild eines Tagebucheintrags, der Emotionen psychologische Bedürfnisse und Glaubenssätze zeigt"
                 }
             }
         },
