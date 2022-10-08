@@ -10,7 +10,9 @@
 
     <div class="markdown-area">
         <div class="container">
-            {% block markdown_content %}{% endblock %}
+            {% markdown %}
+            {% include markdown_file %}
+            {% endmarkdown %}
         </div>
     </div>
 
