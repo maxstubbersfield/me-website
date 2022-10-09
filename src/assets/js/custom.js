@@ -10,23 +10,6 @@ $(document).ready(function () {
     })
 
     /*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>      
-        Feature slider
-    <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
-    if (jQuery(".feature-slider").length > 0) {
-        $('.feature-slider').slick({
-            autoplay: true,
-            slidesToShow: 1,
-            slidesToScroll: 1,
-            dots: true,
-            swipe: true,
-            infinite: true,
-            prevArrow: $('.slick-prev'),
-            nextArrow: $('.slick-next'),
-            autoplaySpeed: 10000,
-        });
-    }
-
-    /*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>      
            Sticky Header
     <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
     window.onscroll = function () {
@@ -35,7 +18,6 @@ $(document).ready(function () {
 
     window.onload = function () {
         scrollFunction();
-        setYouTubeVideoSrc();
     };
 
     window.onbeforeunload = function () {
@@ -58,18 +40,6 @@ $(document).ready(function () {
             $(".site-header--sticky.scrolling").addClass("reveal-header");
         } else {
             $(".site-header--sticky.scrolling").removeClass("reveal-header");
-        }
-    }
-
-    /*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>      
-         YouTube iFrame
-    <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
-    function setYouTubeVideoSrc() {
-        var vidDefer = document.getElementsByClassName('video');
-        for (var i = 0; i < vidDefer.length; i++) {
-            if (vidDefer[i].getAttribute('data-src')) {
-                vidDefer[i].setAttribute('src', vidDefer[i].getAttribute('data-src'));
-            }
         }
     }
 
