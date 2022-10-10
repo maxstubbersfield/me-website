@@ -10,8 +10,6 @@
 {% endblock %}
 
 {% block main %}
-  <script src="/assets/js/ytdefer.min.js"></script>
-
   <!-- Site Header -->
   {{ Header.render() }}
 
@@ -90,12 +88,14 @@
         <div class="content section-heading-10">
           <h2>{{ 'home.video.title' | i18n }}</h2>
         </div>
-
-        <div class="video ytdefer" data-alt="Enter optional img alt text here" data-title="Enter optional img title here" data-src="zC8XEPEfpMs"></div>
-        <script>
-          ytdefer_setup();
-        </script>
-      
+        <iframe
+                class="video lazyload"
+                loading="lazy"
+                title="When life happens"
+                data-src="https://www.youtube-nocookie.com/embed/zC8XEPEfpMs"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen></iframe>
       </div>
     </div>
   </div>
