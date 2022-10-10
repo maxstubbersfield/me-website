@@ -39,7 +39,7 @@
 
         <div class="col-xl-6 col-lg-5 col-md-8" data-aos="fade-left" data-aos-duration="800" data-aos-once="true">
           <div class="row hero-img-container align-content-center">
-            <img class="hero-img" src="/assets/images/app_screenshots/mindspace_{{ page.lang }}.svg" alt="{{ 'home.hero.image_alt' | i18n }}" class="w-100">
+            <img class="hero-img lazyload" data-src="/assets/images/app_screenshots/mindspace_{{ page.lang }}.svg" alt="{{ 'home.hero.image_alt' | i18n }}" class="w-100">
           </div>
         </div>
 
@@ -113,7 +113,7 @@
                 scrolling="no"
                 frameborder="no"
                 allow="autoplay"
-                src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1177052824&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+                data-src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1177052824&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
       </div>
     </div>
   </div>
@@ -133,7 +133,7 @@
         <div class="col-lg-4 col-md-6 col-sm-7">
           <div class="content">
             <div class="text-center">
-              <img class="icon" src="/assets/images/icons/no_cloud.svg" alt="{{ 'home.security_and_privacy.point_1.image_alt' | i18n }}">
+              <img class="icon lazyload" data-src="/assets/images/icons/no_cloud.svg" alt="{{ 'home.security_and_privacy.point_1.image_alt' | i18n }}">
               <h6>{{ 'home.security_and_privacy.point_1.title' | i18n }}</h6>
               <p>{{ 'home.security_and_privacy.point_1.description' | i18n }}</p>
             </div>
@@ -142,7 +142,7 @@
         <div class="col-lg-4 col-md-6 col-sm-7">
           <div class="content">
             <div class="text-center">
-              <img class="icon" src="/assets/images/icons/lock.svg" alt="{{ 'home.security_and_privacy.point_2.image_alt' | i18n }}">
+              <img class="icon lazyload" data-src="/assets/images/icons/lock.svg" alt="{{ 'home.security_and_privacy.point_2.image_alt' | i18n }}">
               <h6>{{ 'home.security_and_privacy.point_2.title' | i18n }}</h6>
               <p>{{ 'home.security_and_privacy.point_2.description' | i18n }}</p>
             </div>
@@ -151,7 +151,7 @@
         <div class="col-lg-4 col-md-6 col-sm-7">
           <div class="content">
             <div class="text-center">
-              <img class="icon" src="/assets/images/icons/no_tracking.svg" alt="{{ 'home.security_and_privacy.point_3.image_alt' | i18n }}">
+              <img class="icon lazyload" data-src="/assets/images/icons/no_tracking.svg" alt="{{ 'home.security_and_privacy.point_3.image_alt' | i18n }}">
               <h6>{{ 'home.security_and_privacy.point_3.title' | i18n }}</h6>
               <p>{{ 'home.security_and_privacy.point_3.description' | i18n }}</p>
             </div>
@@ -173,13 +173,13 @@
       </div>
       <div class ="row align-items-center">
         <div class="text-center">
-          <img class="partner-logo" width="100%" src="/assets/images/partners/EXIST_logos_{{ page.lang }}.svg" alt="{{ 'home.partners.exist.image_alt' | i18n }}">
+          <img class="partner-logo lazyload" width="100%" data-src="/assets/images/partners/EXIST_logos_{{ page.lang }}.svg" alt="{{ 'home.partners.exist.image_alt' | i18n }}">
         </div>
         <div class="col-4 offset-2 text-center">
-          <img class="partner-logo" width="100%" src="/assets/images/partners/BIA_FHA_logo.png" alt="{{ 'home.partners.bia.image_alt' | i18n }}">
+          <img class="partner-logo lazyload" width="100%" data-src="/assets/images/partners/BIA_FHA_logo.png" alt="{{ 'home.partners.bia.image_alt' | i18n }}">
         </div>
         <div class="col-4 text-center">
-          <img class="partner-logo" width="100%" src="/assets/images/partners/Berlin_Senate_logo.png" alt="{{ 'home.partners.berlin_senate.image_alt' | i18n }}">
+          <img class="partner-logo lazyload" width="100%" data-src="/assets/images/partners/Berlin_Senate_logo.png" alt="{{ 'home.partners.berlin_senate.image_alt' | i18n }}">
         </div>
       </div>
     </div>
