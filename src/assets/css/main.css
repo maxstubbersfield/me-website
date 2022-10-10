@@ -1242,17 +1242,26 @@ p {
 }
 
 .hero-area-l-16 .hero-img-container .hero-img {
-  max-height: 700px;
+  height: 700px;
+  width: 374.19px;
 }
 
 @media (min-width: 768px) {
   .hero-area-l-16 .hero-img-container .hero-img {
-    max-height: 800px;
+    height: 800px;
+    width: 427px;
   }
 }
 
 .hero-area-l-16 .content .hero-btns a {
   margin-right: 15px;
+  margin-bottom: 10px;
+}
+
+@media (min-width: 480px) {
+  .hero-area-l-16 .content .hero-btns a {
+    margin-bottom: 0;
+  }
 }
 
 /*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>      
