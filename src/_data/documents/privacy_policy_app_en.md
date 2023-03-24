@@ -1,8 +1,7 @@
-
 # Privacy Policy for the use of the Me App
 
 
-###### (Version 1.0, October 2021)
+###### (Version 1.2, March 2023)
 
 The Me App ("Me" / "the App") is a product of the Me GbR (“We”/ “Us”). It offers you the opportunity to self-reflect on your life situation through journaling, tracking psychological metrics and completing self-reflection exercises. Additionally the self-reflection & personality development is fostered by psychoeducational learning content that is both provided by the Me GbR and third party content partners. The information that is gathered by that and by journaling is stored in your profile within the Me App. 
 
@@ -23,9 +22,10 @@ The processing of your data serves exclusively the purpose of journaling and sel
 4. Login
 5. Feedback Surveys
 6. Backup of your data
-7. Your rights in relation to your data
-8. Right of complaint to a supervisory authority
-9. Other
+7. Sharing the Me App with others
+8. Your rights in relation to your data
+9. Right of complaint to a supervisory authority
+10. Other
 
 Below you will find the essential information about the processing of your data in the Me App and your rights associated with it. Please read this privacy statement carefully, before giving your consent to it.
 
@@ -39,8 +39,8 @@ Me GbR
 represented by the managing directors
 
 Yannick Schmid and Max Stubbersfield \
-Mommsenstraße 5  
-12203 Berlin  
+Mommsenstraße 5 \
+12203 Berlin, Germany \
 email: [knowyourself.meapp@gmail.com](mailto:knowyourself.meapp@gmail.com) \
 phone: +49 176 55542611
 
@@ -183,7 +183,7 @@ If you “Report a Bug”, we process two technical data points regarding your p
 * your phone’s manufacturer
 * your phone’s operating system including version number
 
-This data is anonymised, so that it can not be matched with an email address or user by us.
+In addition, you have the option of providing your email address to support and, possibly, accelerate the troubleshooting process. However, this information is voluntary. If it is not provided, your information cannot be associated with a user.
 
 
 ###### Usage of your personal data:
@@ -242,7 +242,42 @@ You alone decide how long the backup of your data will be stored in the third pa
 You alone select the third party data storage location to which you export the encrypted backup of your data. While your encrypted data is stored there, it can not be accessed by the provider of the data storage location without the “Recovery Key” that you should store at another safe location outside of the Me App.
 
 
-## § 7 Your rights in relation to your data
+## § 7 Sharing the Me App with others
+
+
+###### Involved categories of personal data:
+
+The Me App offers the functionality to send a download link to acquaintances. In this data processing, a link to our product page in an app marketplace (Apple App Store or Google Play Store) or our website is sent to your acquaintance. We do not store any personal data during this data processing.
+
+
+###### Usage of your personal data:
+
+No personal data is processed by the Me App during this data processing.
+
+
+###### Legal basis: 
+
+The legal basis for this data processing is the fulfillment of our contract with you for the use of the Me App.
+
+
+###### Duration of storage: 
+
+No personal data is processed by the Me App during this data processing.
+
+
+###### Involved third parties:
+
+The data processed during login is processed by the following external processors: 
+
+
+
+* We use services provided by Branch Metrics, Inc. Data processing is carried out in accordance with the provisions of data protection law. However, we cannot guarantee that Branch Metrics, Inc. will not store your IP address and other personal data during data processing. 
+
+    The privacy policy of Branch Metrics, Inc. can be found at: [https://legal.branch.io/#branchio-privacypolicy](https://legal.branch.io/#branchio-privacypolicy)
+
+
+
+## § 8 Your rights in relation to your data
 
 
 ###### Access and data portability: 
@@ -269,7 +304,7 @@ The data processing may be objected to for reasons arising from the specific sit
 To exercise these rights, please contact the data controller via written notification to the address mentioned above.
 
 
-## § 8 Right of complaint to a supervisory authority
+## § 9 Right of complaint to a supervisory authority
 
 Without prejudice to any other administrative or judicial remedy, you have the right to complain to a data protection authority. You may do so by contacting the data protection authority in your usual place of residence or at our headquarters. The address of the supervisory authority responsible for the Me GbR is:
 
@@ -279,6 +314,6 @@ Friedrichstraße 219 \
 Germany
 
 
-## §9 Other
+## § 10 Other
 
 In the event of any inconsistency or conflict between the English version and the German version of this Privacy Policy for the use of the Me App, the German version shall prevail.

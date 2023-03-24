@@ -1,8 +1,7 @@
-
 # Datenschutzerklärung für die Nutzung der Me App
 
 
-###### (Version 1.0, Oktober 2021)
+###### (Version 1.2, März 2023)
 
 Die Me App ("Me" / "die App") ist ein Produkt der Me GbR ("Wir" / "Uns"). Sie bietet Ihnen die Möglichkeit, Ihre Lebenssituation selbst zu reflektieren, indem Sie Tagebuch führen, psychologische Messwerte erfassen und Selbstreflexionsübungen absolvieren. Zusätzlich wird die Selbstreflexion und Persönlichkeitsentwicklung durch psychoedukative Lerninhalte gefördert, die sowohl von der Me GbR als auch von Drittanbietern zur Verfügung gestellt werden. Die dadurch und durch das Führen von Protokollen gesammelten Informationen werden in Ihrem Profil innerhalb der Me App gespeichert. 
 
@@ -23,9 +22,9 @@ Die Verarbeitung Ihrer Daten dient ausschließlich dem Zweck des Journalings und
 4. Anmeldung
 5. Feedback Umfragen
 6. Sicherung Ihrer Daten
-7. Ihre Rechte in Bezug auf Ihre Daten
-8. Beschwerderecht bei einer Aufsichtsbehörde
-9. Weiteres
+7. Me App mit Bekannten teilen
+8. Ihre Rechte in Bezug auf Ihre Daten
+9. Beschwerderecht bei einer Aufsichtsbehörde
 
 Im Folgenden finden Sie die wesentlichen Informationen über die Verarbeitung Ihrer Daten in der Me App und Ihre damit verbundenen Rechte. Bitte lesen Sie diese Datenschutzerklärung sorgfältig durch, bevor Sie Ihr Einverständnis dazu geben.
 
@@ -39,8 +38,8 @@ Me GbR
 vertreten durch die Gesellschafter
 
 Yannick Schmid and Max Stubbersfield \
-Mommsenstraße 5  
-12203 Berlin  
+Mommsenstraße 5 \
+12203 Berlin, Germany \
 Email: [knowyourself.meapp@gmail.com](mailto:knowyourself.meapp@gmail.com) \
 Telefon: +49 176 55542611
 
@@ -183,7 +182,7 @@ Wenn Sie einen "Bug melden", verarbeiten wir zwei technische Daten zu Ihrem Tele
 * den Hersteller Ihres Smartphones
 * das Betriebssystem Ihres Smartphones einschließlich der Versionsnummer
 
-Diese Daten sind anonymisiert, so dass sie von uns nicht mit einer E-Mail-Adresse oder einem Nutzer in Verbindung gebracht werden können.
+Darüber hinaus haben Sie die Möglichkeit, Ihre E-Mail-Adresse anzugeben, um den Ablauf der Fehlerbehebung zu unterstützen und gegebenenfalls zu beschleunigen. Diese Angabe ist jedoch freiwillig. Wird sie nicht getätigt, können Ihre Angaben nicht mit einem Nutzer in Verbindung gebracht werden.
 
 
 ###### Nutzung Ihrer personenbezogenen Daten:
@@ -234,7 +233,7 @@ Die Rechtsgrundlage für diese Datenverarbeitung ist die Erfüllung unseres Vert
 
 ###### Dauer der Speicherung:
 
-Sie allein entscheiden, wie lange diese verschlüsselte Sicherungskopie Ihrer Daten in dem  Datenspeicher eines Drittanbieters Ihrer Wahl aufbewahrt werden soll. Sie können sie jederzeit löschen.
+Sie allein entscheiden, wie lange diese verschlüsselte Sicherungskopie Ihrer Daten in dem Datenspeicher eines Drittanbieters Ihrer Wahl aufbewahrt werden soll. Sie können sie jederzeit löschen.
 
 
 ###### Involvierte externe Auftragsverarbeiter:
@@ -242,7 +241,42 @@ Sie allein entscheiden, wie lange diese verschlüsselte Sicherungskopie Ihrer Da
 Sie allein wählen den Speicherort des Drittanbieters, an den Sie die verschlüsselte Sicherungskopie Ihrer Daten exportieren. Während Ihre verschlüsselten Daten dort gespeichert werden, kann der Anbieter des Datenspeichers ohne den "Wiederherstellungs-Schlüssel", den Sie an einem anderen sicheren Ort außerhalb der Me App aufbewahren sollten, nicht auf sie zugreifen.
 
 
-## § 7 Ihrer Rechte in Bezug auf Ihre Daten
+## § 7 Me App mit Bekannten teilen
+
+
+###### Verarbeitete Kategorien von personenbezogenen Daten:
+
+Die Me App bietet Ihnen die Möglichkeit, einen Link zum Download an Bekannte zu senden. Bei dieser Datenverarbeitung wird ein Link zu unserer Produktseite in einem Marktplatz für Apps (Apple App-Store oder Google Play Store) oder unserer Website an Ihre:n Bekannte:n gesendet. Bei der Datenverarbeitung werden von uns keine personenbezogenen Daten gespeichert.
+
+
+###### Nutzung Ihrer personenbezogenen Daten:
+
+Bei dieser Datenverarbeitung werden keine personenbezogenen Daten durch die Me App verarbeitet.
+
+
+###### Rechtsgrundlage:
+
+Die Rechtsgrundlage für diese Datenverarbeitung ist die Erfüllung unseres Vertrages mit Ihnen über die Nutzung der Me App.
+
+
+###### Dauer der Speicherung:
+
+Es werden keine personenbezogenen Daten durch die Me App verarbeitet.
+
+
+###### Involvierte externe Auftragsverarbeiter:
+
+Die beim Teilen der Me App mit Bekannten verarbeiteten Daten werden von folgenden externen Auftragsverarbeitern verarbeitet:
+
+
+
+* Wir nutzen Dienste der Branch Metrics, Inc. Die Datenverarbeitung erfolgt in Übereinstimmung mit den datenschutzrechtlichen Bestimmungen. Wir können jedoch nicht garantieren, dass die Branch Metrics, Inc Ihre IP Adresse und andere personenbezogene Daten während der Datenverarbeitung nicht speichert.
+
+    Die Datenschutzerklärung der Branch Metrics, Inc. finden Sie unter: [https://legal.branch.io/#branchio-privacypolicy](https://legal.branch.io/#branchio-privacypolicy)
+
+
+
+## § 8 Ihre Rechte in Bezug auf Ihre Daten
 
 
 ###### Zugang und Datenübertragbarkeit: 
@@ -269,7 +303,7 @@ Gegen die Datenverarbeitung kann aus Gründen, die sich aus der besonderen Situa
 Um diese Rechte auszuüben, wenden Sie sich bitte schriftlich an den für die Verarbeitung Verantwortlichen unter der oben genannten Adresse.
 
 
-## § 8 Beschwerderecht bei einer Aufsichtsbehörde
+## § 9 Beschwerderecht bei einer Aufsichtsbehörde
 
 Unbeschadet anderer administrativer oder gerichtlicher Rechtsbehelfe haben Sie das Recht, sich bei einer Datenschutzbehörde zu beschweren. Dazu können Sie sich an die zuständige Datenschutzbehörde Ihres üblichen Aufenthaltsortes oder unseres Hauptsitzes wenden. Die Anschrift der für die Me GbR zuständigen Aufsichtsbehörde lautet:
 
