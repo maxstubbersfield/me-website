@@ -188,8 +188,8 @@ module.exports = {
                 de: "Datenschutzerklärung App"
             },
             terms_and_conditions: {
-                en: "Terms & Condition",
-                de: "Allgemeine Geschäftsbedingungen"
+                en: "Terms & Conditions Website",
+                de: "Allgemeine Geschäftsbedingungen Website"
             },
             imprint: {
                 en: "Imprint",
