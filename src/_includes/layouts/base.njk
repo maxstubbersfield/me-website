@@ -6,10 +6,10 @@
   {% block plugincss %}  
   {% endblock %}
 </head>
-<body data-theme-mode-panel-active data-theme="light" style="font-family: 'Mazzard H';">
-  <div class="site-wrapper overflow-hidden position-relative{{PAGE_INFO.page_wrapper_class}}">
+<body data-theme-mode-panel-active data-theme="light" style="font-family: Inter;">
+  <div class="site-wrapper overflow-hidden position-relative min-vh-100 d-flex flex-column 
+                justify-content-between">
       {% block main %}
-    
       {% endblock %}
   </div>
 
@@ -27,7 +27,6 @@
   <script src="/assets/plugins/menu/menu.js"></script>
 
   {% block pluginjs %}
-    
   {% endblock %}
 
   <!-- Activation Script -->
