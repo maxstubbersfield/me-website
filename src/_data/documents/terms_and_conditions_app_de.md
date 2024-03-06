@@ -1,8 +1,7 @@
-
 # All­ge­meine Geschäfts­be­din­gun­gen für die Nutzung der Me App
 
 
-###### (Version 1.2, März 2023)
+###### (Version 1.3, August 2023)
 
 
 ## Inhalt:
@@ -30,9 +29,9 @@
 
 
 
-1. Die Me App bezeich­net die Dienste der Me GbR, Mommsenstr. 5, 12203 Berlin (“Anbieterin”). Die Me GbR ist unter der genannten Anschrift oder über die E-Mail-Adresse knowyourself.meapp@gmail.com erreichbar. 
-2. Die für mobile Endgeräte (Smartphones) entwickelte Me App bietet Nut­zer:innen die Möglichkeit, ihre Lebenssituation selbst zu reflektieren, indem sie Tagebuch führen, psychologische Messwerte erfassen und Selbstreflexionsübungen absolvieren. Zusätzlich wird die Selbstreflexion und Persönlichkeitsentwicklung durch psychoedukative Lerninhalte gefördert, die sowohl von der Me GbR als auch von Drittanbietern zur Verfügung gestellt werden. Die dadurch und durch das Führen von Protokollen gesammelten Informationen werden im Nutzerprofil innerhalb der Me App gespeichert  (“Dienste”). 
-3. Diese allgemeinen Geschäftsbedingungen (“Bedingungen”) regeln die Bedingungen, unter denen die Me GbR ihre Dienste zur Nutzung zur Verfügung stellt. 
+1. Die Me App bezeich­net die Dienste der Clarity UG, Mommsenstr. 5, 12203 Berlin (“Anbieterin”). Die Clarity UG ist unter der genannten Anschrift oder über die E-Mail-Adresse knowyourself.meapp@gmail.com erreichbar. 
+2. Die für mobile Endgeräte (Smartphones) entwickelte Me App bietet Nut­zer:innen die Möglichkeit, ihre Lebenssituation selbst zu reflektieren, indem sie Tagebuch führen, psychologische Messwerte erfassen und Selbstreflexionsübungen absolvieren. Zusätzlich wird die Selbstreflexion und Persönlichkeitsentwicklung durch psychoedukative Lerninhalte gefördert, die sowohl von der Clarity UG als auch von Drittanbietern zur Verfügung gestellt werden. Die dadurch und durch das Führen von Protokollen gesammelten Informationen werden im Nutzerprofil innerhalb der Me App gespeichert  (“Dienste”). 
+3. Diese allgemeinen Geschäftsbedingungen (“Bedingungen”) regeln die Bedingungen, unter denen die Clarity UG ihre Dienste zur Nutzung zur Verfügung stellt. 
 4. Mit der Nutzung der Dienste akzeptiert der/die Nutzer:in (“Nutzer”) die Bedingungen. Nutzer, die mit den Bedingungen nicht einverstanden sind, ist die Nutzung untersagt. Dies gilt auch für den Fall, dass das Einverständnis während des laufenden Vertragsverhältnisses wegfällt. In diesem Fall hat die Nutzung ab diesem Moment zu unterbleiben.
 
 
@@ -173,7 +172,7 @@ Die Vertragssprache ist Deutsch.
 
 
 
-* An Me GbR, Mommsenstraße 5, 12203 Berlin, Deutschland, E-Mail: \
+* An Clarity UG, Mommsenstraße 5, 12203 Berlin, Deutschland, E-Mail: \
 [knowyourself.meapp@gmail.com](mailto:knowyourself.meapp@gmail.com)
 
 Hiermit widerrufe(n) ich/wir (*) den von mir/uns (*) abgeschlossenen Vertrag über den Kauf der folgenden Waren (*)/die Erbringung der folgenden Dienstleistung (*)

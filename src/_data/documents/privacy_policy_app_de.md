@@ -1,16 +1,15 @@
-
 # Datenschutzerklärung für die Nutzung der Me App
 
 
-###### (Version 1.2, März 2023)
+###### (Version 1.3, August 2023)
 
-Die Me App ("Me" / "die App") ist ein Produkt der Me GbR ("Wir" / "Uns"). Sie bietet Ihnen die Möglichkeit, Ihre Lebenssituation selbst zu reflektieren, indem Sie Tagebuch führen, psychologische Messwerte erfassen und Selbstreflexionsübungen absolvieren. Zusätzlich wird die Selbstreflexion und Persönlichkeitsentwicklung durch psychoedukative Lerninhalte gefördert, die sowohl von der Me GbR als auch von Drittanbietern zur Verfügung gestellt werden. Die dadurch und durch das Führen von Protokollen gesammelten Informationen werden in Ihrem Profil innerhalb der Me App gespeichert. 
+Die Me App ("Me" / "die App") ist ein Produkt der Clarity UG ("Wir" / "Uns"). Sie bietet Ihnen die Möglichkeit, Ihre Lebenssituation selbst zu reflektieren, indem Sie Tagebuch führen, psychologische Messwerte erfassen und Selbstreflexionsübungen absolvieren. Zusätzlich wird die Selbstreflexion und Persönlichkeitsentwicklung durch psychoedukative Lerninhalte gefördert, die sowohl von der Clarity UG als auch von Drittanbietern zur Verfügung gestellt werden. Die dadurch und durch das Führen von Protokollen gesammelten Informationen werden in Ihrem Profil innerhalb der Me App gespeichert. 
 
 Der Schutz und die Sicherheit Ihrer Daten ist uns sehr wichtig. Deshalb werden Ihre Tagebuchdaten ausschließlich auf Ihrem Smartphone gespeichert und sind weder für uns noch für Dritte zugänglich. 
 
 Alle Daten werden in Übereinstimmung mit der Datenschutz-Grundverordnung 2016/679 vom 27. April 2016 ("DSGVO") erhoben, verarbeitet und gespeichert.
 
-Die Verarbeitung Ihrer Daten dient ausschließlich dem Zweck des Journalings und der Selbstreflexion. Die Me App bietet keine medizinische oder psychotherapeutische Beratung. Sie ersetzt nicht die Beratung durch ausgebildetes medizinisches Fachpersonal oder professionelles psychotherapeutisches Personal. Da die Me GbR im Rahmen der Me App keine medizinische Beratung durchführt, ist sie nicht an die ärztliche Schweigepflicht gebunden. 
+Die Verarbeitung Ihrer Daten dient ausschließlich dem Zweck des Journalings und der Selbstreflexion. Die Me App bietet keine medizinische oder psychotherapeutische Beratung. Sie ersetzt nicht die Beratung durch ausgebildetes medizinisches Fachpersonal oder professionelles psychotherapeutisches Personal. Da die Clarity UG im Rahmen der Me App keine medizinische Beratung durchführt, ist sie nicht an die ärztliche Schweigepflicht gebunden. 
 
 
 ## Inhalt:
@@ -32,9 +31,9 @@ Im Folgenden finden Sie die wesentlichen Informationen über die Verarbeitung Ih
 
 ## § 1 Name und Anschrift des für die Verarbeitung Verantwortlichen
 
-Diese Datenschutzerklärung gilt für die Verarbeitung Ihrer personenbezogenen Daten durch die Me GbR als für diese Datenverarbeitung Verantwortliche gemäß Art. 4 Nr. 7 DSGVO. Im Folgenden finden Sie unsere Kontaktdaten:
+Diese Datenschutzerklärung gilt für die Verarbeitung Ihrer personenbezogenen Daten durch die Clarity UG als für diese Datenverarbeitung Verantwortliche gemäß Art. 4 Nr. 7 DSGVO. Im Folgenden finden Sie unsere Kontaktdaten:
 
-Me GbR
+Clarity UG
 
 vertreten durch die Gesellschafter
 
@@ -104,7 +103,7 @@ Wir fragen nur die personenbezogenen Daten ab, die für die Eröffnung Ihres Ben
 
 ###### Dauer der Speicherung:
 
-Ihre Daten werden für die Zeit, in der Sie Nutzer der Me App sind, sicher gespeichert. Sie werden gelöscht, sobald Sie uns auffordern, Ihre Daten zu löschen oder Ihren Vertrag mit der Me GbR beenden. 
+Ihre Daten werden für die Zeit, in der Sie Nutzer der Me App sind, sicher gespeichert. Sie werden gelöscht, sobald Sie uns auffordern, Ihre Daten zu löschen oder Ihren Vertrag mit der Clarity UG beenden. 
 
 
 ###### Involvierte externe Auftragsverarbeiter:
@@ -125,7 +124,7 @@ Die Datenschutzerklärung der Google LLC finden Sie unter:
 
 ###### Verarbeitete Kategorien von personenbezogenen Daten:
 
-Bei jeder Anmeldung in die Me App wird eine Anfrage an einen externen Server der Me GbR gesendet in welchem folgende personenbezogene Datenpunkte enthalten sind:
+Bei jeder Anmeldung in die Me App wird eine Anfrage an einen externen Server der Clarity UG gesendet in welchem folgende personenbezogene Datenpunkte enthalten sind:
 
 
 
@@ -152,7 +151,7 @@ Wir fragen nur die personenbezogenen Daten ab, die für die Anmeldung in der Me 
 
 ###### Dauer der Speicherung:
 
-Während des Anmeldevorganges werden keine Datenpunkte auf Servern der Me GbR gespeichert.
+Während des Anmeldevorganges werden keine Datenpunkte auf Servern der Clarity UG gespeichert.
 
 
 ###### Involvierte externe Auftragsverarbeiter:
@@ -219,12 +218,14 @@ Die bei der Abgabe des Feedbacks verarbeiteten Daten werden von folgenden extern
 
 ###### Verarbeitete Kategorien von personenbezogenen Daten:
 
-Die Me App bietet Ihnen die Möglichkeit, die Daten zu sichern, die Sie während des Tagebuchschreibens und der Durchführung von Selbstreflexionsübungen in die App eingeben. Bei dieser Datenverarbeitung wird eine Kopie Ihrer lokalen Datenbank erstellt und verschlüsselt. Mit der App können Sie diese verschlüsselte Sicherungskopie an den  Datenspeicher eines Drittanbieters Ihrer Wahl exportieren. Die Verschlüsselung der Sicherungskopie kann nur mit dem "Wiederherstellungs-Schlüssel" entschlüsselt werden, welcher nur für Ihr Benutzerprofil gilt und Ihnen im Abschnitt "Einstellungen" der Me-App bereitgestellt wird.
+Die Me App bietet Ihnen die Möglichkeit, die Daten zu sichern, die Sie während des Tagebuchschreibens und der Durchführung von Selbstreflexionsübungen in die App eingeben. Bei dieser Datenverarbeitung wird eine Kopie Ihrer lokalen Datenbank erstellt und verschlüsselt. Mit der App können Sie diese verschlüsselte Sicherungskopie an den Datenspeicher eines Drittanbieters exportieren. Die Verschlüsselung der Sicherungskopie kann nur mit dem "Wiederherstellungs-Schlüssel" entschlüsselt werden, welcher nur für Ihr Benutzerprofil generiert wurde und Ihnen im Abschnitt "Einstellungen" der Me-App bereitgestellt wird.
 
 
 ###### Nutzung Ihrer personenbezogenen Daten:
 
-Da Ihre persönlichen Daten ausschließlich lokal auf Ihrem Smartphone verarbeitet und verschlüsselt gespeichert werden und nicht an einen Server übermittelt werden, können Ihre Daten nicht wiederhergestellt werden, falls Ihr Smartphone nicht mehr funktioniert oder Ihnen nicht mehr zur Verfügung steht. Sollten Sie Ihr Smartphone wechseln, ermöglicht Ihnen eine exportierte und verschlüsselte Sicherungskopie Ihrer Daten, Ihre Daten auf Ihr neues Smartphone zu übertragen.
+Da Ihre persönlichen Daten ausschließlich lokal auf Ihrem Smartphone verarbeitet und verschlüsselt gespeichert werden, können Ihre Daten nicht wiederhergestellt werden, falls Ihr Smartphone nicht mehr funktioniert oder Ihnen nicht mehr zur Verfügung steht. Sollten Sie Ihr Smartphone wechseln, ermöglicht Ihnen eine exportierte und verschlüsselte Sicherungskopie Ihrer Daten, Ihre Daten auf ein neues Smartphone zu übertragen.
+
+Durch die regelmäßige automatisierte Speicherung einer verschlüsselten Sicherungskopie besteht keine Gefahr, dass persönliche Daten auf Grund von Nachlässigkeiten verloren gehen.
 
 
 ###### Rechtsgrundlage:
@@ -234,12 +235,22 @@ Die Rechtsgrundlage für diese Datenverarbeitung ist die Erfüllung unseres Vert
 
 ###### Dauer der Speicherung:
 
-Sie allein entscheiden, wie lange diese verschlüsselte Sicherungskopie Ihrer Daten in dem Datenspeicher eines Drittanbieters Ihrer Wahl aufbewahrt werden soll. Sie können sie jederzeit löschen.
+Sie allein entscheiden, wie lange diese verschlüsselte Sicherungskopie Ihrer Daten in dem Datenspeicher eines Drittanbieters aufbewahrt werden soll. Sie können sie jederzeit löschen.
 
 
 ###### Involvierte externe Auftragsverarbeiter:
 
-Sie allein wählen den Speicherort des Drittanbieters, an den Sie die verschlüsselte Sicherungskopie Ihrer Daten exportieren. Während Ihre verschlüsselten Daten dort gespeichert werden, kann der Anbieter des Datenspeichers ohne den "Wiederherstellungs-Schlüssel", den Sie an einem anderen sicheren Ort außerhalb der Me App aufbewahren sollten, nicht auf sie zugreifen.
+Für Nutzer:innen der Premium-Version der Me App werden die verschlüsselten Sicherungskopien regelmäßig automatisch auf ihrem persönlichen Google Drive Cloud-Speicherplatz gesichert.
+
+Die dabei verarbeiteten Daten werden von folgenden externen Auftragsverarbeitern verarbeitet:
+
+
+
+* Wir nutzen Dienste der Google LLC. Die Datenverarbeitung erfolgt innerhalb der Europäischen Union und in Übereinstimmung mit den datenschutzrechtlichen Bestimmungen. Wir können jedoch nicht garantieren, dass die Google LLC Ihre E-Mail-Adresse während der Datenverarbeitung nicht speichert.
+
+Nutzer:innen der kostenfreien Version der Me App wählen den Speicherort ihrer verschlüsselten Sicherungskopie, sowie den Zeitpunkt, an dem sie sie anfertigen, selbst. 
+
+Während Ihre verschlüsselten Daten am Speicherort des Drittanbieters gespeichert werden, kann der Anbieter des Datenspeichers ohne den "Wiederherstellungs-Schlüssel", den Sie an einem anderen sicheren Ort außerhalb der Me App aufbewahren sollten, nicht auf die Daten zugreifen.
 
 
 ## § 7 Me App mit Bekannten teilen
@@ -282,7 +293,7 @@ Die beim Teilen der Me App mit Bekannten verarbeiteten Daten werden von folgende
 
 ###### Zugang und Datenübertragbarkeit: 
 
-Sie haben das Recht, jederzeit eine Kopie aller Informationen zu anzufordern, die von der Me GbR über Sie erfasst, verarbeitet und gespeichert werden. Dies gilt auch für die Empfänger oder Kategorien von Empfängern, an die diese Daten weitergegeben werden, sowie den Zweck und die Dauer der Speicherung.
+Sie haben das Recht, jederzeit eine Kopie aller Informationen zu anzufordern, die von der Clarity UG über Sie erfasst, verarbeitet und gespeichert werden. Dies gilt auch für die Empfänger oder Kategorien von Empfängern, an die diese Daten weitergegeben werden, sowie den Zweck und die Dauer der Speicherung.
 
 
 ###### Löschung und Einschränkung der Verarbeitung:
@@ -294,7 +305,7 @@ Sie haben auch das Recht, die Löschung und/oder die Einschränkung der Verarbei
 
 Die Rechtsgrundlage für die Verarbeitung personenbezogener Daten zur Wahrnehmung von Aufgaben im öffentlichen Interesse oder zur Wahrung berechtigter Interessen gemäß dieser Klausel sind Ihre Einwilligungen in diese "Datenschutzerklärung" und die "Allgemeinen Geschäftsbedingungen". Sie können Ihre Einwilligungen in die Verarbeitung Ihrer personenbezogenen Daten jederzeit mit Wirkung für die Zukunft widerrufen. Im Falle des Widerrufs Ihrer Einwilligung wird die gesamte Datenverarbeitung, die lokal auf Ihrem Gerät stattfindet, sofort beendet. 
 
-Um die weitere Verarbeitung Ihrer Daten zu den oben genannten Zwecken durch die Me GbR und die Empfänger oder Kategorien von Empfängern, an die diese Daten weitergegeben werden, zu beenden, ist eine schriftliche Mitteilung an die Adresse des für die Verarbeitung Verantwortlichen erforderlich. In diesem Fall unterlassen wir jegliche Datenverarbeitung, es sei denn, es liegen zwingende schutzwürdige Gründe für die weitere Datenverarbeitung vor, die Ihre Interessen, Rechte und Freiheiten überwiegen, oder die Verarbeitung ist zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen erforderlich.
+Um die weitere Verarbeitung Ihrer Daten zu den oben genannten Zwecken durch die Clarity UG und die Empfänger oder Kategorien von Empfängern, an die diese Daten weitergegeben werden, zu beenden, ist eine schriftliche Mitteilung an die Adresse des für die Verarbeitung Verantwortlichen erforderlich. In diesem Fall unterlassen wir jegliche Datenverarbeitung, es sei denn, es liegen zwingende schutzwürdige Gründe für die weitere Datenverarbeitung vor, die Ihre Interessen, Rechte und Freiheiten überwiegen, oder die Verarbeitung ist zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen erforderlich.
 
 Gegen die Datenverarbeitung kann aus Gründen, die sich aus der besonderen Situation der betroffenen Person ergeben, Widerspruch eingelegt werden.
 
@@ -306,7 +317,7 @@ Um diese Rechte auszuüben, wenden Sie sich bitte schriftlich an den für die Ve
 
 ## § 9 Beschwerderecht bei einer Aufsichtsbehörde
 
-Unbeschadet anderer administrativer oder gerichtlicher Rechtsbehelfe haben Sie das Recht, sich bei einer Datenschutzbehörde zu beschweren. Dazu können Sie sich an die zuständige Datenschutzbehörde Ihres üblichen Aufenthaltsortes oder unseres Hauptsitzes wenden. Die Anschrift der für die Me GbR zuständigen Aufsichtsbehörde lautet:
+Unbeschadet anderer administrativer oder gerichtlicher Rechtsbehelfe haben Sie das Recht, sich bei einer Datenschutzbehörde zu beschweren. Dazu können Sie sich an die zuständige Datenschutzbehörde Ihres üblichen Aufenthaltsortes oder unseres Hauptsitzes wenden. Die Anschrift der für die Clarity UG zuständigen Aufsichtsbehörde lautet:
 
 Berliner Beauftragte für Datenschutz und Informationsfreiheit \
 Friedrichstraße 219 \

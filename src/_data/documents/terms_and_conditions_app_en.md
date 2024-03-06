@@ -1,8 +1,7 @@
-
 # Terms and Conditions for the usage of the Me App
 
 
-###### (Version 1.2, March 2023)
+###### (Version 1.3, August 2023)
 
 
 ## Overview:
@@ -31,9 +30,9 @@
 
 
 
-1. The Me App is a service provided by the Me GbR, Mommsenstr. 5, 12203 Berlin ("Provider"). Me GbR can be reached at the above address or via the email address: knowyourself.meapp@gmail.com. 
-2. The Me App, which was developed for mobile devices (smartphones), offers users the opportunity to self-reflect on their life situation by keeping a diary, monitoring psychological metrics and completing self-reflection exercises. In addition, self-reflection and personality development are promoted through psychoeducational learning content provided by both Me GbR and third-party content creators. The information collected through this and through the keeping of logs is stored in the user profile within the Me App ("Services"). 
-3. These general terms and conditions ("Terms") govern the conditions under which the Me GbR makes its Services available for use. 
+1. The Me App is a service provided by the Clarity UG, Mommsenstr. 5, 12203 Berlin ("Provider"). Clarity UG can be reached at the above address or via the email address: knowyourself.meapp@gmail.com. 
+2. The Me App, which was developed for mobile devices (smartphones), offers users the opportunity to self-reflect on their life situation by keeping a diary, monitoring psychological metrics and completing self-reflection exercises. In addition, self-reflection and personality development are promoted through psychoeducational learning content provided by both Clarity UG and third-party content creators. The information collected through this and through the keeping of logs is stored in the user profile within the Me App ("Services"). 
+3. These general terms and conditions ("Terms") govern the conditions under which the Clarity UG makes its Services available for use. 
 4. By using the Services, the user accepts the terms. Users who do not agree to the Terms and Conditions are prohibited from using the services. This also applies in the event that the agreement ceases to exist during the current contractual relationship. In this case, the use of the services is prohibited from that moment on.
 
 
@@ -41,7 +40,7 @@
 
 
 
-1. Me GbR reserves the right to change these terms and conditions unilaterally at its own discretion. 
+1. Clarity UG reserves the right to change these terms and conditions unilaterally at its own discretion. 
 2. Changes shall be made exclusively due to unforeseeable changes that cannot be influenced, such as the enactment of a new law that renders previous regulations ineffective, or due to gaps in the contractual relationship that subsequently become apparent, which would significantly disrupt the relationship between the service and compensation. The Provider's main service obligations are not subject to the changes.
 3. In the event of changes to the terms and conditions, the User will be notified of these at the next login and must agree to them again. Login without consent is then not possible. Users are requested to read the terms and conditions again after changes have been made. Older versions are no longer valid from the time of consent to the change.
 4. The services are constantly being developed and may change. The provider reserves the right to decide on the type and scope of any changes. 
@@ -179,7 +178,7 @@ In the event of any inconsistency or conflict between the English version and th
 
 
 
-* To Me GbR, Mommsenstraße 5, 12203 Berlin, Germany, email: [knowyourself.meapp@gmail.com](mailto:knowyourself.meapp@gmail.com)
+* To Clarity UG, Mommsenstraße 5, 12203 Berlin, Germany, email: [knowyourself.meapp@gmail.com](mailto:knowyourself.meapp@gmail.com)
 
 I hereby revoke the contract regarding the usage of the Me App.
 

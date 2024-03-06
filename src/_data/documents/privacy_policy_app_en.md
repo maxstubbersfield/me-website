@@ -1,16 +1,15 @@
-
 # Privacy Policy for the use of the Me App
 
 
-###### (Version 1.2, March 2023)
+###### (Version 1.3, August 2023)
 
-The Me App ("Me" / "the App") is a product of the Me GbR (“We”/ “Us”). It offers you the opportunity to self-reflect on your life situation through journaling, tracking psychological metrics and completing self-reflection exercises. Additionally the self-reflection & personality development is fostered by psychoeducational learning content that is both provided by the Me GbR and third party content partners. The information that is gathered by that and by journaling is stored in your profile within the Me App. 
+The Me App ("Me" / "the App") is a product of the Clarity UG (“We”/ “Us”). It offers you the opportunity to self-reflect on your life situation through journaling, tracking psychological metrics and completing self-reflection exercises. Additionally the self-reflection & personality development is fostered by psychoeducational learning content that is both provided by the Clarity UG and third party content partners. The information that is gathered by that and by journaling is stored in your profile within the Me App. 
 
 The privacy and security of your data is of high importance to us, which is why your journaling data is stored exclusively on your smartphone and is not accessible to us or third parties. 
 
 All Data is collected, processed and stored in accordance with the General Data Protection Regulation 2016/679 released on april 27th 2016 (“GDPR”).
 
-The processing of your data serves exclusively the purpose of journaling and self-reflection. The Me App does not provide medical or psychotherapeutic consultation. It does not replace the consultation of a trained clinician or professional psychotherapist. Since the Me GbR does not give medical advice within the scope of the Me App it is not bound to medical confidentiality. 
+The processing of your data serves exclusively the purpose of journaling and self-reflection. The Me App does not provide medical or psychotherapeutic consultation. It does not replace the consultation of a trained clinician or professional psychotherapist. Since the Clarity UG does not give medical advice within the scope of the Me App it is not bound to medical confidentiality. 
 
 
 ## Overview:
@@ -33,9 +32,9 @@ Below you will find the essential information about the processing of your data 
 
 ## § 1 Name and address of the data controller
 
-This privacy statement applies to the processing of your personal data by the Me GbR as the responsible controller for this data processing. Our contact details are:
+This privacy statement applies to the processing of your personal data by the Clarity UG as the responsible controller for this data processing. Our contact details are:
 
-Me GbR
+Clarity UG
 
 represented by the managing directors
 
@@ -105,7 +104,7 @@ We only request your personal data which is necessarily required to open your us
 
 ###### Duration of storage: 
 
-Your data will be stored securely for the time that you are a user of the Me App and will be deleted when you request us to delete your data or to end your contract with the Me GbR. 
+Your data will be stored securely for the time that you are a user of the Me App and will be deleted when you request us to delete your data or to end your contract with the Clarity UG. 
 
 
 ###### Involved third parties:
@@ -114,7 +113,7 @@ The data processed during registration are processed on:
 
 
 
-* services of Google LLC. The data processing takes place within the European Union and in compliance with data protection regulations.
+* services of Google LLC. The data processing takes place in compliance with data protection regulations.
 
 You can find the privacy statement of Google LLC under:
 
@@ -126,7 +125,7 @@ You can find the privacy statement of Google LLC under:
 
 ###### Involved categories of personal data:
 
-Each time you log in to the Me App, a request is sent to an external server of the Me GbR in which the following personal data points are contained:
+Each time you log in to the Me App, a request is sent to an external server of the Clarity UG in which the following personal data points are contained:
 
 
 
@@ -153,7 +152,7 @@ We only request your personal data which is necessarily required to complete the
 
 ###### Duration of storage: 
 
-During the login process, no data points are stored on servers of the Me GbR.
+During the login process, no data points are stored on servers of the Clarity UG.
 
 
 ###### Involved third parties:
@@ -212,7 +211,7 @@ The data processed during providing feedback are processed by:
 
 
 
-* services of Google LLC. The data processing takes place within the European Union and in compliance with data protection regulations. Although we can not guarantee that Google LLC stores your email address during the data processing.
+* services of Google LLC. The data processing takes place in compliance with data protection regulations. Although we can not guarantee that Google LLC doesn’t store your email address during the data processing.
 
 
 ## § 6 Backup of your data
@@ -220,12 +219,14 @@ The data processed during providing feedback are processed by:
 
 ###### Involved categories of personal data:
 
-The Me App offers the functionality to backup the data that you enter into the app during journaling and completing self-reflection exercises. During this data processing a copy of your local database is created and encrypted. The app lets you export this encrypted backup to a third party data storage location of your choice. The encryption of the backup can only be decrypted with the “Recovery Key” that is unique to your user profile and provided to you in the “Settings” section of the Me App.
+The Me App offers the functionality to backup the data that you enter into the app during journaling and completing self-reflection exercises. During this data processing a copy of your local database is created and encrypted. The app lets you export this encrypted backup to a third party data storage location. The encryption of the backup can only be decrypted with the “Recovery Key” that is unique to your user profile and provided to you in the “Settings” section of the Me App.
 
 
 ###### Usage of your personal data:
 
-Since your data is processed and stored encrypted exclusively locally on your smartphone and is not sent to a remote server, your data can not be restored in the event of your smartphone being not functional or available to you anymore. Should you change your smartphone an exported and encrypted backup of your data enables you to transfer your data onto your new smartphone.
+Since your data is processed and stored encrypted exclusively locally on your smartphone, your data can not be restored in the event of your smartphone being not functional or available to you anymore. Should you change your smartphone an exported and encrypted backup of your data enables you to transfer your data onto a new smartphone.
+
+With regular automated storage of an encrypted backup, there is no risk of losing personal data due to carelessness.
 
 
 ###### Legal basis: 
@@ -240,7 +241,15 @@ You alone decide how long the backup of your data will be stored in the third pa
 
 ###### Involved third parties:
 
-You alone select the third party data storage location to which you export the encrypted backup of your data. While your encrypted data is stored there, it can not be accessed by the provider of the data storage location without the “Recovery Key” that you should store at another safe location outside of the Me App.
+For users of the Premium version of the Me App those encrypted backups are regularly and automatically saved in their personal Google Drive cloud storage. The data processing involved in that process is handled by:
+
+
+
+* services of Google LLC. The data processing takes place in compliance with data protection regulations. Although we can not guarantee that Google LLC doesn’t store your email address during the data processing.
+
+Users of the free version of the Me App can freely choose the time and storage location for their encrypted backup.
+
+While your encrypted data is stored there, it can not be accessed by the provider of the data storage location without the “Recovery Key” that you should store at another safe location outside of the Me App.
 
 
 ## § 7 Sharing the Me App with others
@@ -283,7 +292,7 @@ The data processed during login is processed by the following external processor
 
 ###### Access and data portability: 
 
-You have the right to request a copy of all information that is collected, processed and stored about you by the Me GbR at any time. This also applies to the recipients or categories of recipients to whom this data is passed on as well as the purpose and duration of storage.
+You have the right to request a copy of all information that is collected, processed and stored about you by the Clarity UG at any time. This also applies to the recipients or categories of recipients to whom this data is passed on as well as the purpose and duration of storage.
 
 
 ###### Correction and deletion: 
@@ -295,7 +304,7 @@ You also have the right to demand deletion and/or correction of your personal da
 
 The legal basis for processing of personal data for the performance of tasks in the public interest or for the protection of legitimate interests in accordance with this clause are your consents to this “Privacy Policy” and the “Terms and Conditions”. You can withdraw your consents to the processing of your personal data at any time with effect for the future. In the event of your withdrawal of consent, all data processing that happens locally on your device is terminated immediately. 
 
-To terminate any further processing of your data for the above-mentioned purposes by the Me GbR and the recipients or categories of recipients to whom this data is passed on, a written notification to the address of the data controller is required. In this case we shall refrain from all data processing unless there are compelling reasons for further data processing that are worthy of protection and outweigh your interests, rights and freedoms, or the processing is necessary for the assertion, exercise or defense of legal claims.
+To terminate any further processing of your data for the above-mentioned purposes by the Clarity UG and the recipients or categories of recipients to whom this data is passed on, a written notification to the address of the data controller is required. In this case we shall refrain from all data processing unless there are compelling reasons for further data processing that are worthy of protection and outweigh your interests, rights and freedoms, or the processing is necessary for the assertion, exercise or defense of legal claims.
 
 The data processing may be objected to for reasons arising from the specific situation of the data subject.
 
@@ -307,7 +316,7 @@ To exercise these rights, please contact the data controller via written notific
 
 ## § 9 Right of complaint to a supervisory authority
 
-Without prejudice to any other administrative or judicial remedy, you have the right to complain to a data protection authority. You may do so by contacting the data protection authority in your usual place of residence or at our headquarters. The address of the supervisory authority responsible for the Me GbR is:
+Without prejudice to any other administrative or judicial remedy, you have the right to complain to a data protection authority. You may do so by contacting the data protection authority in your usual place of residence or at our headquarters. The address of the supervisory authority responsible for the Clarity UG is:
 
 Berlin Commissioner for Data Protection and Freedom of Information \
 Friedrichstraße 219 \
