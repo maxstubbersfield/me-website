@@ -1140,6 +1140,22 @@ p {
   }
 }
 
+li {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  color: #1D263A;
+}
+
+@media (min-width: 768px) {
+  li {
+    font-size: 20px;
+    line-height: 24px;
+  }
+}
+
 /*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>      
             Hero Area-L-16
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
@@ -1677,37 +1693,9 @@ p {
     Markdown Page
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
 .markdown-area {
-  padding-top: 45px;
-  padding-bottom: 0px;
+  padding-top: 120px;
+  padding-bottom: 70px;
 }
-
-@media (min-width: 480px) {
-  .markdown-area {
-    padding-top: 60px;
-  }
-}
-
-@media (min-width: 768px) {
-  .markdown-area {
-    padding-top: 60px;
-    padding-bottom: 30px;
-  }
-}
-
-@media (min-width: 992px) {
-  .markdown-area {
-    padding-top: 100px;
-    padding-bottom: 110px;
-  }
-}
-
-@media (min-width: 1200px) {
-  .markdown-area {
-    padding-top: 100px;
-    padding-bottom: 70px;
-  }
-}
-
 
 /*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>      
     Terms & Conditions main Page
@@ -1808,10 +1796,6 @@ p {
   background-size: cover !important;
   background-repeat: no-repeat !important;
   background-position: center !important;
-}
-
-ul {
-  list-style: none;
 }
 
 a {
