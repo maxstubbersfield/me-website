@@ -1,0 +1,30 @@
+{% extends "layouts/base.njk" %}
+{% block head %}{% endblock %}
+{% import '../partials/header.njk' as Header with context %}
+{% import '../partials/footer.njk' as Footer with context %}
+{% block main %}
+  <!-- Site Header -->
+  {{ Header.render() }}
+  <!-- Body -->
+  <div class="delete-account-area flex-grow-1">
+    <div class="container">
+      <div class="row">
+        <div class="top-header section-heading-10">
+          <h2>{{ 'delete_account.instructions.title' | i18n }}</h2>
+          <h6>{{ 'delete_account.instructions.description' | i18n }}</h6>
+        </div>
+      </div>
+      <p>
+        {% renderTemplate "njk, md" %}
+        {{ 'delete_account.instructions.steps_markdown' | i18n | safe }}
+        {% endrenderTemplate %}
+      </p>
+    </div>
+  </div>
+  <!-- Footer -->
+  {{ Footer.render('footer.copyright',
+        'footer.links.website_privacy_policy',
+        'footer.links.app_privacy_policy',
+        'footer.links.terms_and_conditions',
+        'footer.links.imprint') }}
+{% endblock %}

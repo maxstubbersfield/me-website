@@ -206,5 +206,21 @@ module.exports = {
             en: "The page you are looking for could not be found.",
             de: "Die aufgerufene Seite wurde leider nicht gefunden."
         }
+    },
+    delete_account: {
+        instructions: {
+            title: {
+                en: "How to delete your account",
+                de: ""
+            },
+            description: {
+                en: "You are in control of the all the data that you create in the Me app. The data is all stored locally...",
+                de: ""
+            },
+            steps_markdown: {
+                en: "\n1. Open the Me app\n2. Select the 'Mindspace' tab\n3. Select Settings (icon in the top right corner of the screen)\n4. Select 'Delete Account'",
+                de: ""
+            }
+        }
     }
 };

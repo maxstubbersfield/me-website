@@ -1690,6 +1690,15 @@ li {
 }
 
 /*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>      
+    Delete Account Page
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
+.delete-account-area {
+  background: #EEF2FF;
+  padding-top: 120px;
+  padding-bottom: 70px;
+}
+
+/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>      
     Markdown Page
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
 .markdown-area {
