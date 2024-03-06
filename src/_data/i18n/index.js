@@ -175,8 +175,8 @@ module.exports = {
     },
     footer: {
         copyright: {
-            en: "Me GbR All right reserved.",
-            de: "Me GbR alle Rechte vorbehalten."
+            en: "Clarity UG all rights reserved.",
+            de: "Clarity UG alle Rechte vorbehalten."
         },
         links: {
             website_privacy_policy: {
