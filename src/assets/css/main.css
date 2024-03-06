@@ -1760,34 +1760,6 @@ li {
   margin-bottom: 17px;
 }
 
-.terms-condition-area .skills-qualification {
-  margin-bottom: 50px;
-}
-
-.terms-condition-area .skills-qualification ul {
-  margin-top: 35px;
-  margin-bottom: -18px;
-}
-
-.terms-condition-area .skills-qualification ul li {
-  margin-bottom: 18px;
-  display: flex;
-  font-size: 17px;
-  line-height: 30px;
-  color: #696871;
-}
-
-.terms-condition-area .skills-qualification ul li i {
-  font-size: 9px;
-  color: #19191B;
-  margin-right: 15px;
-}
-
-.terms-condition-area .skills-qualification ul li span {
-  display: inline-block;
-  margin-top: -8px;
-}
-
 /* ---------------------------------
 -------> THEME CUSTOM STYLES 
 ---------------------------------
