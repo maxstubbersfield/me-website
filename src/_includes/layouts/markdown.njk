@@ -1,26 +1,19 @@
 {% extends "layouts/base.njk" %}
 {% block head %}{% endblock %}
-
 {% import '../partials/header.njk' as Header with context %}
 {% import '../partials/footer.njk' as Footer with context %}
-
 {% block main %}
     <!-- Site Header -->
     {{ Header.render() }}
-
     <div class="markdown-area">
         <div class="container">
-            {% markdown %}
-            {% include markdown_file %}
-            {% endmarkdown %}
+            {% renderFile markdown_file %}
         </div>
     </div>
-
     <!-- Footer -->
     {{ Footer.render('footer.copyright',
     'footer.links.website_privacy_policy',
     'footer.links.app_privacy_policy',
     'footer.links.terms_and_conditions',
-    'footer.links.imprint')}}
-
+    'footer.links.imprint') }}
 {% endblock %}

@@ -1,7 +1,6 @@
-const { EleventyI18nPlugin } = require("@11ty/eleventy");
+const { EleventyI18nPlugin, EleventyRenderPlugin } = require("@11ty/eleventy");
 const i18n = require('eleventy-plugin-i18n');
 const translations = require('./src/_data/i18n');
-const markdownIt = require("markdown-it");
 
 module.exports = function (eleventyConfig) {
   // Plugins
@@ -13,12 +12,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(i18n, {
     translations
   });
-
-  const md = markdownIt();
-
-  eleventyConfig.addPairedShortcode("markdown", (content) => {
-    return md.render(content);
-  });
+  
+  eleventyConfig.addPlugin(EleventyRenderPlugin);
 
   eleventyConfig.setServerPassthroughCopyBehavior("copy");
 
