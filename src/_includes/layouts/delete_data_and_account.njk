@@ -13,15 +13,9 @@
           <h2>{{ 'delete_account.instructions.title' | i18n }}</h2>
         </div>
       </div>
-
       {% renderTemplate "njk, md" %}
       {{ 'delete_account.instructions.description' | i18n | addLeadingNewlineIfNeeded }}
       {% endrenderTemplate %}
-
-      {% renderTemplate "njk, md" %}
-      {{ 'delete_account.instructions.steps_markdown' | i18n | addLeadingNewlineIfNeeded }}
-      {% endrenderTemplate %}
-
     </div>
   </div>
   <!-- Footer -->
