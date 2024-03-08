@@ -40,10 +40,6 @@ body {
   --border-color-2: rgba(37, 55, 63, 0.1);
 }
 
-p {
-  color: var(--color-texts);
-}
-
 .default-logo,
 .default-shape {
   display: block;
