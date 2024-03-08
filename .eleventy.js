@@ -15,6 +15,16 @@ module.exports = function (eleventyConfig) {
   
   eleventyConfig.addPlugin(EleventyRenderPlugin);
 
+  // Used for markdown strings
+  eleventyConfig.addFilter("addLeadingNewlineIfNeeded", function(value) {
+    // Check if the value starts with a newline character
+    if (value.startsWith("\n")) {
+      return value; // Return the value as it is
+    } else {
+      return "\n" + value; // Prepend a newline character and return
+    }
+  });
+  
   eleventyConfig.setServerPassthroughCopyBehavior("copy");
 
   // Pass through copy

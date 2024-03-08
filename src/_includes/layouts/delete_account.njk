@@ -11,14 +11,17 @@
       <div class="row">
         <div class="top-header section-heading-10">
           <h2>{{ 'delete_account.instructions.title' | i18n }}</h2>
-          <h6>{{ 'delete_account.instructions.description' | i18n }}</h6>
         </div>
       </div>
-      <p>
-        {% renderTemplate "njk, md" %}
-        {{ 'delete_account.instructions.steps_markdown' | i18n | safe }}
-        {% endrenderTemplate %}
-      </p>
+
+      {% renderTemplate "njk, md" %}
+      {{ 'delete_account.instructions.description' | i18n | addLeadingNewlineIfNeeded }}
+      {% endrenderTemplate %}
+
+      {% renderTemplate "njk, md" %}
+      {{ 'delete_account.instructions.steps_markdown' | i18n | addLeadingNewlineIfNeeded }}
+      {% endrenderTemplate %}
+
     </div>
   </div>
   <!-- Footer -->
