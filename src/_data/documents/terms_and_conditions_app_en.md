@@ -1,7 +1,7 @@
 # Terms and Conditions for the usage of the Me App
 
 
-###### (Version 1.3, August 2023)
+###### (Version 1.3, September 2025)
 
 
 ## Overview:
@@ -30,7 +30,7 @@
 
 
 
-1. The Me App is a service provided by the Clarity UG, Mommsenstr. 5, 12203 Berlin ("Provider"). Clarity UG can be reached at the above address or via the email address: knowyourself.meapp@gmail.com. 
+1. The Me App is a service provided by the Clarity UG, Mommsenstr. 5, 12203 Berlin ("Provider"). Clarity UG can be reached at the above address or via the email address: contact@know-yourself.me
 2. The Me App, which was developed for mobile devices (smartphones), offers users the opportunity to self-reflect on their life situation by keeping a diary, monitoring psychological metrics and completing self-reflection exercises. In addition, self-reflection and personality development are promoted through psychoeducational learning content provided by both Clarity UG and third-party content creators. The information collected through this and through the keeping of logs is stored in the user profile within the Me App ("Services"). 
 3. These general terms and conditions ("Terms") govern the conditions under which the Clarity UG makes its Services available for use. 
 4. By using the Services, the user accepts the terms. Users who do not agree to the Terms and Conditions are prohibited from using the services. This also applies in the event that the agreement ceases to exist during the current contractual relationship. In this case, the use of the services is prohibited from that moment on.
@@ -178,7 +178,7 @@ In the event of any inconsistency or conflict between the English version and th
 
 
 
-* To Clarity UG, Mommsenstraße 5, 12203 Berlin, Germany, email: [knowyourself.meapp@gmail.com](mailto:knowyourself.meapp@gmail.com)
+* To Clarity UG, Mommsenstraße 5, 12203 Berlin, Germany, email: contact@know-yourself.me
 
 I hereby revoke the contract regarding the usage of the Me App.
 

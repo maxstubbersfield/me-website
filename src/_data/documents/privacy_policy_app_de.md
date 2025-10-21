@@ -1,11 +1,9 @@
 # Datenschutzerklärung für die Nutzung der Me App
 
 
-###### (Version 1.3, August 2023)
+###### (Version 1.7, Oktober 2025)
 
-Die Me App ("Me" / "die App") ist ein Produkt der Clarity UG ("Wir" / "Uns"). Sie bietet Ihnen die Möglichkeit, Ihre Lebenssituation selbst zu reflektieren, indem Sie Tagebuch führen, psychologische Messwerte erfassen und Selbstreflexionsübungen absolvieren. Zusätzlich wird die Selbstreflexion und Persönlichkeitsentwicklung durch psychoedukative Lerninhalte gefördert, die sowohl von der Clarity UG als auch von Drittanbietern zur Verfügung gestellt werden. Die dadurch und durch das Führen von Protokollen gesammelten Informationen werden in Ihrem Profil innerhalb der Me App gespeichert. 
-
-Der Schutz und die Sicherheit Ihrer Daten ist uns sehr wichtig. Deshalb werden Ihre Tagebuchdaten ausschließlich auf Ihrem Smartphone gespeichert und sind weder für uns noch für Dritte zugänglich. 
+Die Me App ("Me" / "die App") ist ein Produkt der Clarity UG ("Wir" / "Uns"). Sie bietet Ihnen die Möglichkeit, Ihr Wohlbefinden und Ihre Lebenssituation zu reflektieren, indem Sie Tagebuch führen, psychologische Messwerte erfassen und Selbstreflexionsübungen absolvieren. Zusätzlich wird die Selbstreflexion und Persönlichkeitsentwicklung durch psychoedukative Lerninhalte gefördert, die sowohl von der Clarity UG als auch von Drittanbietern zur Verfügung gestellt werden. Die dadurch und durch das Führen von Protokollen gesammelten Informationen werden in Ihrem Profil innerhalb der Me App gespeichert. 
 
 Alle Daten werden in Übereinstimmung mit der Datenschutz-Grundverordnung 2016/679 vom 27. April 2016 ("DSGVO") erhoben, verarbeitet und gespeichert.
 
@@ -18,13 +16,17 @@ Die Verarbeitung Ihrer Daten dient ausschließlich dem Zweck des Journalings und
 
 1. Name und Anschrift des für die Verarbeitung Verantwortlichen
 2. Lokale Datenverarbeitung
-3. Registrierung
-4. Anmeldung
+3. Anmeldung
+4. Kauf eines Premium Abonnements oder eines kostenfreien Probe-Abonnements
 5. Feedback Umfragen
 6. Sicherung Ihrer Daten
 7. Me App mit Bekannten teilen
-8. Ihre Rechte in Bezug auf Ihre Daten
-9. Beschwerderecht bei einer Aufsichtsbehörde
+8. Herunterladen von psychoedukativen Audiodateien
+9. Import von Fitness- & Wellness-Daten in die Me App
+10. Verbesserung des Produktes
+11. Erhöhung der Reichweite
+12. Ihre Rechte in Bezug auf Ihre Daten
+13. Beschwerderecht bei einer Aufsichtsbehörde
 
 Im Folgenden finden Sie die wesentlichen Informationen über die Verarbeitung Ihrer Daten in der Me App und Ihre damit verbundenen Rechte. Bitte lesen Sie diese Datenschutzerklärung sorgfältig durch, bevor Sie Ihr Einverständnis dazu geben.
 
@@ -39,16 +41,41 @@ vertreten durch die Gesellschafter
 
 Yannick Schmid and Max Stubbersfield \
 Mommsenstraße 5 \
-12203 Berlin, Germany \
-Email: [knowyourself.meapp@gmail.com](mailto:knowyourself.meapp@gmail.com) \
+12203 Berlin, Deutschland \
+Email: contact@know-yourself.me \
 Telefon: +49 176 55542611
 
 
 ## § 2 Lokale Datenverarbeitung
 
-Ihre persönlichen Daten, einschließlich der Informationen, die Sie während des Tagebuchschreibens und des Ausfüllens von Selbstreflexionsübungen in die Me App eingeben, werden verschlüsselt und ausschließlich lokal auf Ihrem Smartphone verarbeitet und gespeichert. Sie werden nicht an einen Server gesendet.
+Ihre personenbezogenen Daten, einschließlich der Informationen, die Sie während des Tagebuchschreibens und des Ausfüllens von Selbstreflexionsübungen in die Me App eingeben, werden lokal und verschlüsselt auf Ihrem Endgerät gespeichert. Sie werden nicht ohne Ihre Zustimmung an einen Server gesendet.
 
-Auf diese Weise können Ihre persönlichen Daten von niemandem eingesehen, analysiert oder weitergegeben werden, außer von Ihnen selbst oder einer anderen Person, die Zugang zu Ihrem Smartphone hat und über Ihre Anmeldedaten für die Me App verfügt. Deshalb sollten Sie sicherstellen, dass Ihr Smartphone in keiner Weise kompromittiert ist, und auch niemandem Root-Zugriff gewähren (umgangssprachlich "jailbreaken"). Außerdem sollten Sie Ihre Anmeldedaten mit niemandem teilen und sie an einem sicheren Ort aufbewahren.
+Auf diese Weise sind Ihre persönlichen Daten weder für die Clarity UG noch für Dritte zugänglich. Sie können von niemandem eingesehen, analysiert oder weitergegeben werden, außer von Ihnen selbst oder anderen Personen, die Zugang zu Ihrem Endgerät haben und über Ihre Anmeldedaten für die Me App verfügen.
+
+Deshalb sollten Sie sicherstellen, dass Ihr Endgerät in keiner Weise kompromittiert ist, und auch niemandem Root-Zugriff gewähren (umgangssprachlich "jailbreaken"). Außerdem sollten Sie Ihre Anmeldedaten mit niemandem teilen und sie an einem sicheren Ort aufbewahren.
+
+Manche Funktionen innerhalb der Me App können jedoch nur angeboten werden, indem einzelne personenbezogene Datenpunkte an Server der Clarity UG oder von Partnerunternehmen gesendet werden.
+
+Zu diesem Zweck wird für jedes Benutzerkonto, welches diese Funktionen verwendet, eine zufällige Konto-ID erstellt, welche deren Benutzerkonten eindeutig zugewiesen wird. 
+
+Mit Ihrer zufälligen Konto-ID können Sie sich pseudonymisiert gegenüber den Servern der Clarity UG oder den Servern unserer Partnerunternehmen authentifizieren.
+
+Auf den Servern der Clarity UG werden Ihrer zufälligen Konto-ID keine weiteren personenbezogenen Datenpunkte zugeordnet, sodass Sie gegenüber der Clarity UG pseudonymisiert bleiben.
+
+Die Funktionen, welche eine Datenverarbeitung auf Servern erfordern, werden in den folgenden Paragraphen einzeln beschrieben.
+
+Die Me App weist Sie stets darauf hin, wenn eine Funktion eine Verarbeitung oder Speicherung von Datenpunkten außerhalb Ihres Endgeräts erfordert. Sollten Sie diese Funktionen nicht nutzen, werden keine personenbezogenen Daten außerhalb Ihres Endgeräts verarbeitet oder gespeichert.
+
+Personenbezogene Datenpunkte, die im Rahmen einer Nutzung dieser Funktionen auf Servern der Clarity UG oder von Partnerunternehmen verarbeitet oder gespeichert werden sind:
+
+
+
+* IP-Adresse Ihres Endgeräts
+* Kontaktinformationen, einschließlich Ihres Namens, Ihrer E-Mail-Adresse, Ihrer Mobiltelefonnummer und Ihrer Adresse
+* Anmeldeinformationen, einschließlich Benutzername und Passwort
+* Zahlungsinformationen, einschließlich Ihrer Kreditkarteninformationen
+* Fitness- & Wellnessdaten
+* Alle anderen Informationen, die Sie uns zur Verfügung stellen
 
 Die Eingabe persönlicher Daten in die Me App ist freiwillig und die Rechtsgrundlage für die Datenverarbeitung ist Ihre Zustimmung zu unseren 
 
@@ -60,75 +87,17 @@ Die Eingabe persönlicher Daten in die Me App ist freiwillig und die Rechtsgrund
 
 Diese Einwilligungen können Sie jederzeit mit Wirkung für die Zukunft im Bereich "Einstellungen" der App widerrufen. Mit dem Widerruf oder dem Wegfall einer der obigen Einwilligungen entfällt das Recht zur Nutzung der Me-App. Die Rechtmäßigkeit der aufgrund Ihrer Einwilligung bis zum Widerruf erfolgten Speicherung von Daten bleibt hiervon unberührt.
 
-Sie allein entscheiden, wie lange Ihre Daten innerhalb der Me App gespeichert werden. Alle lokal verarbeiteten und gespeicherten Daten können Sie dauerhaft löschen, indem Sie die Me App von Ihrem Smartphone deinstallieren oder eine der oben genannten Einwilligungen widerrufen.
 
-Die einzige Ausnahme bei den lokal verarbeiteten, personenbezogenen Daten sind zwei Datenpunkte, die für die Einrichtung Ihres Benutzerkontos und den Zugang zur Me App erforderlich sind. 
-
-
-
-* Ihre E-Mail Adresse 
-* das Betriebssystem Ihres Smartphones (Android oder iOS)
-
-Die Fälle, in denen diese beiden Datenpunkte verarbeitet werden, sind in den folgenden Paragraphen beschrieben.
-
-
-## § 3 Registrierung
+## § 3 Anmeldung
 
 
 ###### Verarbeitete Kategorien von personenbezogenen Daten:
 
-Wenn Sie ein Benutzerkonto in der Me App anlegen möchten, benötigen wir folgende Angaben: 
+Bei jeder Anmeldung in die Me App wird eine Anfrage an einen Server der Clarity UG gesendet in welchem folgende personenbezogene Datenpunkte enthalten sind:
 
 
 
-* Ihre E-Mail Adresse 
-* das Betriebssystem Ihres Smartphones (Android oder iOS)
-
-
-###### Nutzung Ihrer personenbezogenen Daten:
-
-Die Daten, die Sie während des Registrierungsprozesses angeben, werden verwendet, um Ihr Benutzerkonto einzurichten.
-
-Die E-Mail-Adresse dient als Ihre eindeutige Kennung innerhalb der Me App, um bestimmte Aufgaben wie den Abschluss Ihrer Registrierung und die Rechnungsstellung durchzuführen.
-
-
-###### Rechtsgrundlage:
-
-Die Rechtsgrundlage für diese Datenverarbeitung ist die Erfüllung unseres Vertrags mit Ihnen über die Nutzung der Me App.
-
-Die Verarbeitung Ihrer personenbezogenen Daten im Rahmen des Registrierungsprozesses ist für die Nutzung der Me App zwingend erforderlich. Eine Nichtbereitstellung der erforderlichen Daten führt dazu, dass der Registrierungsprozess nicht abgeschlossen werden kann und Sie somit die Me App nicht nutzen können.
-
-Wir fragen nur die personenbezogenen Daten ab, die für die Eröffnung Ihres Benutzerkontos unbedingt erforderlich sind. Darüber hinaus werden alle persönlichen Daten, die nicht unbedingt auf unseren Servern gespeichert werden müssen, ausschließlich auf Ihrem Smartphone gespeichert.
-
-
-###### Dauer der Speicherung:
-
-Ihre Daten werden für die Zeit, in der Sie Nutzer der Me App sind, sicher gespeichert. Sie werden gelöscht, sobald Sie uns auffordern, Ihre Daten zu löschen oder Ihren Vertrag mit der Clarity UG beenden. 
-
-
-###### Involvierte externe Auftragsverarbeiter:
-
-Die bei der Registrierung verarbeiteten Daten werden von folgenden externen Auftragsverarbeitern verarbeitet: 
-
-
-
-* Wir nutzen Dienste der Google LLC. Die Datenverarbeitung erfolgt innerhalb der Europäischen Union und unter Einhaltung der datenschutzrechtlichen Bestimmungen.
-
-Die Datenschutzerklärung der Google LLC finden Sie unter:
-
-[https://support.google.com/googlecloud/answer/6056694](https://support.google.com/googlecloud/answer/6056694)
-
-
-## § 4 Anmeldung
-
-
-###### Verarbeitete Kategorien von personenbezogenen Daten:
-
-Bei jeder Anmeldung in die Me App wird eine Anfrage an einen externen Server der Clarity UG gesendet in welchem folgende personenbezogene Datenpunkte enthalten sind:
-
-
-
-* IP-Adresse Ihres Smartphones
+* IP-Adresse Ihres Endgeräts
 
 
 ###### Nutzung Ihrer personenbezogenen Daten:
@@ -146,7 +115,7 @@ Die Rechtsgrundlage für diese Datenverarbeitung ist die Erfüllung unseres Vert
 
 Die Verarbeitung Ihrer personenbezogenen Daten im Rahmen des Anmeldungsprozesses ist für die Nutzung der Me App zwingend erforderlich. Eine Nichtbereitstellung der erforderlichen Daten führt dazu, dass der Anmeldungsprozess nicht abgeschlossen werden kann und Sie somit die Me App nicht nutzen können.
 
-Wir fragen nur die personenbezogenen Daten ab, die für die Anmeldung in der Me App unbedingt erforderlich sind. Darüber hinaus werden alle persönlichen Daten, die nicht unbedingt auf unseren Servern gespeichert werden müssen, ausschließlich auf Ihrem Smartphone gespeichert.
+Wir fragen nur die personenbezogenen Daten ab, die für die Anmeldung in der Me App unbedingt erforderlich sind. Darüber hinaus werden alle persönlichen Daten, die nicht unbedingt auf unseren Servern gespeichert werden müssen, ausschließlich auf Ihrem Endgerät gespeichert.
 
 
 ###### Dauer der Speicherung:
@@ -166,6 +135,65 @@ Die bei der Anmeldung verarbeiteten Daten werden von folgenden externen Auftrags
 
 
 
+## § 4 Kauf eines Premium Abonnements oder eines kostenfreien Probe-Abonnements
+
+
+###### Verarbeitete Kategorien von personenbezogenen Daten:
+
+Beim Abschluss eines Premium Abonnements oder eines kostenfreien Probe-Abonnements wird eine Benachrichtigung an einen Server der Clarity UG gesendet in welchem folgende personenbezogene Datenpunkte enthalten sind:
+
+
+
+* IP-Adresse Ihres Endgeräts
+
+
+###### Nutzung Ihrer personenbezogenen Daten:
+
+Die Benachrichtigung wird versendet, um den ordnungsgemäßen Abschluss der Transaktion zu verifizieren und Betrug auszuschließen. Außerdem wird dabei eine anonymisierte Kauf-ID übermittelt, welche der Clarity UG erlaubt nachzuvollziehen, über welchen Online-Marketingkanal und welche Kampagne Sie auf die Me App aufmerksam wurden.
+
+Diese anonymisierte Kauf-ID lässt jedoch keine Identifikation Ihrer Person zu.
+
+
+###### Rechtsgrundlage:
+
+Die Rechtsgrundlage für diese Datenverarbeitung ist die Erfüllung unseres Vertrages mit Ihnen über die Nutzung der Me App.
+
+Die Verarbeitung Ihrer personenbezogenen Daten im Rahmen des Kaufprozesses ist für die Nutzung der Me App zwingend erforderlich. Eine Nichtbereitstellung der erforderlichen Daten führt dazu, dass der Kaufprozess nicht abgeschlossen werden kann und Sie somit die Me App nicht nutzen können.
+
+Wir fragen nur die personenbezogenen Daten ab, die für die Verifizierung der Transaktion in der Me App unbedingt erforderlich sind. Darüber hinaus werden alle persönlichen Daten, die nicht unbedingt auf unseren Servern gespeichert werden müssen, ausschließlich auf Ihrem Endgerät gespeichert.
+
+
+###### Dauer der Speicherung:
+
+Während des Kaufprozesses werden keine persönlichen Datenpunkte auf Servern der Clarity UG gespeichert. Lediglich die anonymisierte Kauf-ID wird gespeichert, um eine Auflistung der von Ihnen erworbenen Abonnements zu erstellen, ohne dass Sie als Person mit dieser Kauf-ID in Verbindung gesetzt werden können.
+
+
+###### Involvierte externe Auftragsverarbeiter:
+
+Die anonymisierte Kauf-ID wird von den Anbietern externer Werbeplattformen generiert und über die Me App an unseren Server weitergeleitet. Als externe Werbeplattformen werden die Dienste folgender Anbieter genutzt: 
+
+
+
+* Google LLC bzw. Google Ireland Limited im Europäischen Raum. Wir können nicht garantieren, dass die Google LLC Ihre IP-Adresse während der Datenverarbeitung nicht speichert.
+
+    Die Datenschutzerklärung der Google LLC finden Sie unter: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+
+* Apple Inc. Wir können nicht garantieren, dass Apple Inc. Ihre IP-Adresse während der Datenverarbeitung nicht speichert.
+
+    Die Datenschutzerklärung der Apple Inc. finden Sie unter: 
+
+
+    [https://www.apple.com/legal/privacy/](https://www.apple.com/legal/privacy/)
+
+* Meta Platforms Inc. Wir können nicht garantieren, dass Meta Platforms Inc. Ihre IP-Adresse während der Datenverarbeitung nicht speichert. Die Datenschutzerklärung der Meta Platforms Inc. finden Sie unter:
+
+	[https://www.facebook.com/privacy/policy/](https://www.facebook.com/privacy/policy/)
+
+
+
+* Wir nutzen Dienste der Amazon Web Services EMEA SARL, ("AWS Europe"). Die Datenverarbeitung erfolgt innerhalb der Europäischen Union und unter Einhaltung der datenschutzrechtlichen Bestimmungen. Wir können jedoch nicht garantieren, dass die Amazon Web Services EMEA SARL, ("AWS Europe") Ihre IP-Adresse während der Datenverarbeitung nicht speichert. Die Datenschutzerklärung der Amazon Web Services EMEA SARL, ("AWS Europe") finden Sie unter: [https://aws.amazon.com/de/privacy/](https://aws.amazon.com/de/privacy/)
+
+
 ## § 5 Feedback Umfragen
 
 
@@ -179,8 +207,8 @@ Wenn Sie einen "Bug melden", verarbeiten wir zwei technische Daten zu Ihrem Tele
 
 
 
-* den Hersteller Ihres Smartphones
-* das Betriebssystem Ihres Smartphones einschließlich der Versionsnummer
+* den Hersteller Ihres Endgeräts
+* das Betriebssystem Ihres Endgeräts einschließlich der Versionsnummer
 
 Darüber hinaus haben Sie die Möglichkeit, Ihre E-Mail-Adresse anzugeben, um den Ablauf der Fehlerbehebung zu unterstützen und gegebenenfalls zu beschleunigen. Diese Angabe ist jedoch freiwillig. Wird sie nicht getätigt, können Ihre Angaben nicht mit einem Nutzer in Verbindung gebracht werden.
 
@@ -223,7 +251,7 @@ Die Me App bietet Ihnen die Möglichkeit, die Daten zu sichern, die Sie während
 
 ###### Nutzung Ihrer personenbezogenen Daten:
 
-Da Ihre persönlichen Daten ausschließlich lokal auf Ihrem Smartphone verarbeitet und verschlüsselt gespeichert werden, können Ihre Daten nicht wiederhergestellt werden, falls Ihr Smartphone nicht mehr funktioniert oder Ihnen nicht mehr zur Verfügung steht. Sollten Sie Ihr Smartphone wechseln, ermöglicht Ihnen eine exportierte und verschlüsselte Sicherungskopie Ihrer Daten, Ihre Daten auf ein neues Smartphone zu übertragen.
+Da Ihre persönlichen Daten ausschließlich lokal auf Ihrem Endgerät verarbeitet und verschlüsselt gespeichert werden, können Ihre Daten nicht wiederhergestellt werden, falls Ihr Endgerät nicht mehr funktioniert oder Ihnen nicht mehr zur Verfügung steht. Sollten Sie Ihr Endgerät wechseln, ermöglicht Ihnen eine exportierte und verschlüsselte Sicherungskopie Ihrer Daten, Ihre Daten auf ein neues Endgerät zu übertragen.
 
 Durch die regelmäßige automatisierte Speicherung einer verschlüsselten Sicherungskopie besteht keine Gefahr, dass persönliche Daten auf Grund von Nachlässigkeiten verloren gehen.
 
@@ -273,7 +301,7 @@ Die Rechtsgrundlage für diese Datenverarbeitung ist die Erfüllung unseres Vert
 
 ###### Dauer der Speicherung:
 
-Es werden keine personenbezogenen Daten durch die Me App verarbeitet.
+Es werden keine personenbezogenen Daten auf den Servern der Clarity UG gespeichert.
 
 
 ###### Involvierte externe Auftragsverarbeiter:
@@ -288,7 +316,247 @@ Die beim Teilen der Me App mit Bekannten verarbeiteten Daten werden von folgende
 
 
 
-## § 8 Ihre Rechte in Bezug auf Ihre Daten
+## § 8 Herunterladen von psychoedukativen Audiodateien
+
+
+###### Verarbeitete Kategorien von personenbezogenen Daten:
+
+Die Me App bietet Ihnen die Möglichkeit, einige der Lerninhalte und Übungen als Audiodateien anzuhören. Diese Audiodateien werden nicht lokal auf dem Endgerät gespeichert, sondern auf einem Server der Clarity UG. Um sie anzuhören, müssen sie auf das Endgerät heruntergeladen werden. Bevor Sie diese Audiodateien anfordern können, muss Ihr Benutzerkonto automatisch gegenüber dem Server der Clarity UG mit Hilfe Ihrer zufälligen Konto-ID authentifiziert werden.
+
+
+###### Nutzung Ihrer personenbezogenen Daten:
+
+Im Zuge der Authentifizierung wird die IP-Adresse Ihres Endgeräts an den Server der Clarity UG übermittelt. Diese wird jedoch nicht erfasst und gespeichert.
+
+Somit werden bei dieser Datenverarbeitung keine personenbezogenen Daten gespeichert.
+
+
+###### Rechtsgrundlage:
+
+Die Rechtsgrundlage für diese Datenverarbeitung ist die Erfüllung unseres Vertrages mit Ihnen über die Nutzung der Me App.
+
+
+###### Dauer der Speicherung:
+
+Ihre zufällige Konto-ID wird über die gesamte Nutzungsdauer auf dem Server der Clarity UG gespeichert, es sei denn, Sie veranlassen eine Löschung dieser zufälligen Konto-ID (siehe §10 “Löschung und Einschränkung der Verarbeitung”).
+
+
+###### Involvierte externe Auftragsverarbeiter:
+
+Die beim Herunterladen von psychoedukativen Audiodateien verarbeiteten Daten werden von folgenden externen Auftragsverarbeitern verarbeitet:
+
+
+
+* Für den Betrieb des Servers der Clarity UG werden die Dienste der Amazon Web Services EMEA SARL, ("AWS Europe") genutzt. Die Datenverarbeitung erfolgt innerhalb der Europäischen Union und unter Einhaltung der datenschutzrechtlichen Bestimmungen. Wir können nicht garantieren, dass die Amazon Web Services EMEA SARL, ("AWS Europe") Ihre IP-Adresse während der Datenverarbeitung nicht speichert.
+
+    Die Datenschutzerklärung der Amazon Web Services EMEA SARL, ("AWS Europe") finden Sie unter: [https://aws.amazon.com/de/privacy/](https://aws.amazon.com/de/privacy/)
+
+
+
+## § 9 Import von Fitness- & Wellness-Daten in die Me App
+
+
+###### Verarbeitete Kategorien von personenbezogenen Daten:
+
+Die Me App bietet Ihnen die Möglichkeit, Fitness- & Wellness-Daten von Drittanbietern, wie beispielsweise den Herstellern von Fitness-Trackern, automatisiert in die Me App zu importieren. 
+
+Der Import von Fitness- & Wellness-Daten wird mittels eines externen Dienstleisters namens Adept Labs, Inc. realisiert. Er bietet eine Dienstleistung namens “Vital” an, welche als Datenakkumulator fungiert. Vital erlaubt es, Daten von verschiedenen Drittanbietern von Fitness- & Wellness-Trackern in einem standardisierten Format von einer einzigen Programmierschnittstelle (API) in die Me App zu integrieren. 
+
+Bei dieser Datenverarbeitung werden folgende personenbezogene Daten verarbeitet:
+
+
+
+* Kontaktinformationen, einschließlich Ihres Namens, Ihrer E-Mail-Adresse, Ihrer Mobiltelefonnummer und Ihrer Adresse
+* Anmeldeinformationen, einschließlich Benutzername und Passwort
+* Zahlungsinformationen, einschließlich Ihrer Kreditkarteninformationen
+* IP-Adresse Ihres Endgeräts
+* Sämtliche Datenpunkte, welche von den Servern der Drittanbieter in die Me App importiert werden. Dies könnte beispielsweise folgende Datenkategorien umfassen:
+    * Daten über die Schlafqualität
+    * Daten über körperliche Aktivität und Sport
+    * Herzratenvariabilität, Ruhepuls, Blutdruck
+    * Körpergewicht, Körpergröße und Körperzusammensetzung
+    * Daten zum Stresslevel
+    * etc.
+* Alle anderen Informationen, die Sie uns zur Verfügung stellen
+
+Um den Import und die kontinuierliche Bereitstellung aller historischen Fitness- & Wellness-Daten zu gewährleisten, wird eine pseudonymisierte Kopie dieser Daten auf dem Server des Datenakkumulators gespeichert.
+
+Um eine Verbindung zwischen Vital und den Benutzerkonten innerhalb der Me App herzustellen, wird durch die Clarity UG ein Server betrieben. Für jede:n Nutzer:in, welche die Import-Funktion in Anspruch nimmt, wird eine ID erzeugt, mit der die Benutzerkonten der Me App den zugehörigen Benutzerkonten bei Drittanbietern von Fitness- & Wellness-Daten zugeordnet werden können, damit ein Import der Fitness- & Wellness-Daten in die Me App erfolgen kann.
+
+Auf dem Server der Clarity UG werden keine Fitness- & Wellness-Daten und auch nicht die IP-Adressen der Nutzer:innen gespeichert, sondern lediglich die IDs, welche die Zuordnung der Benutzerkonten ermöglichen.
+
+Dadurch besteht für die Clarity UG die technische Möglichkeit, mit Hilfe der ID, auf Ihre Fitness- & Wellness-Daten auf dem Server des Datenakkumulators zuzugreifen. Von dieser Möglichkeit wird jedoch kein Gebrauch gemacht, es sei denn ein wichtiger Grund macht es erforderlich. Dazu gehören Anfragen zur Strafverfolgung, Wartung und Behebung von technischen Problemen sowie die Wiederherstellung von verlorenen Daten.
+
+
+###### Nutzung Ihrer personenbezogenen Daten:
+
+Die Möglichkeit, Fitness- & Wellness-Daten von Drittanbietern zu importieren, wird im Rahmen des Premium-Abonnements angeboten. Die importierten Datenpunkte werden innerhalb der Me App grafisch aufbereitet und zusammen mit anderen Datenpunkten, die in der Me App gespeichert sind, angezeigt. Dadurch können Nutzer:innen einen umfassenderen Blick auf ihr Wohlbefinden gewinnen.
+
+
+###### Rechtsgrundlage:
+
+Die Rechtsgrundlage für diese Datenverarbeitung ist die Erfüllung unseres Vertrages mit Ihnen über die Nutzung der Me App.
+
+Das Importieren und somit auch die Datenverarbeitung von personenbezogenen Daten von Drittanbietern erfolgt freiwillig und nur nach expliziter Zustimmung. 
+
+
+###### Dauer der Speicherung:
+
+Ihre personenbezogenen Daten werden bis zur expliziten Löschung durch Sie auf dem Server des Aggregators gespeichert. 
+
+Sie werden gespeichert, um jederzeit eine historische Analyse Ihres Fitnesszustands und Ihres Wohlbefindens innerhalb der Me App zu ermöglichen.
+
+Sollten Sie den Wunsch haben, dass Ihre personenbezogenen Daten, inklusive Ihrer Fitness & Wellness-Daten sowohl von den Servern der Clarity UG, als auch den Servern des Datenakkumulators gelöscht werden, können Sie dies durch eine Löschung Ihres Benutzerkontos der Me App im Abschnitt "Einstellungen" der Me App veranlassen.
+
+Bitte beachten Sie, dass ein einfaches Deinstallieren der Me App von Ihrem Gerät nicht ausreicht, um die Daten, welche außerhalb Ihres Geräts gespeichert werden, zu löschen.
+
+
+###### Involvierte externe Auftragsverarbeiter:
+
+Die im Rahmen des Imports von Fitness- & Wellness-Daten verarbeiteten Daten werden von folgenden externen Auftragsverarbeitern verarbeitet: 
+
+
+
+* Für den Betrieb des Servers der Clarity UG werden die Dienste der Amazon Web Services EMEA SARL, ("AWS Europe") genutzt. Die Datenverarbeitung erfolgt innerhalb der Europäischen Union und unter Einhaltung der datenschutzrechtlichen Bestimmungen. Wir können nicht garantieren, dass die Amazon Web Services EMEA SARL, ("AWS Europe") Ihre IP-Adresse während der Datenverarbeitung nicht speichert.
+
+    Die Datenschutzerklärung der Amazon Web Services EMEA SARL, ("AWS Europe") finden Sie unter: [https://aws.amazon.com/de/privacy/](https://aws.amazon.com/de/privacy/)
+
+* Für die Akkumulation der Fitness- & Wellness-Daten nutzen wir die Dienste der Adept Labs, Inc., welche die Dienstleistung “Vital” anbietet. Die Datenverarbeitung erfolgt in Übereinstimmung mit den datenschutzrechtlichen Bestimmungen. Wir können jedoch nicht garantieren, dass die Adept Labs, Inc. Ihre personenbezogenen Daten während der Datenverarbeitung nicht speichert.
+
+    Die Datenschutzerklärung der Adept Labs, Inc. finden Sie unter: [https://tryvital.io/privacy](https://tryvital.io/privacy)
+
+
+
+## §10 Verbesserung des Produktes
+
+
+###### Verarbeitete Kategorien von personenbezogenen Daten:
+
+Während der Nutzung der Me App werden folgende Daten über Ihr Nutzungsverhalten erhoben:
+
+
+
+* IP-Adresse Ihres Endgeräts
+* eine pseudonymisierte ID, die vom Werbetreibenden vergeben wurde
+* den Hersteller und Kennung Ihres Endgeräts
+* das Betriebssystem Ihres Endgeräts einschließlich der Versionsnummer
+* bestimmte Einstellungen Ihres Endgeräts (z.B. Auflösung Ihres Bildschirms)
+* Versionsnummer der Me App
+* Berichte über Fehlfunktionen und Abstürze
+* Informationen darüber, wie oft die Me App geöffnet und wie lange sie genutzt wird
+* Informationen darüber, welche Funktionen gestartet und beendet werden und welche Ansichten in der App besucht werden, sowie welche Interaktionen auf diesen Ansichten stattfinden (z.B. Scrollen, Klicks)
+* Ihre geografische Lage
+* Datum und Uhrzeit
+
+Bei dieser Datenverarbeitung werden keine Gesundheitsdaten erhoben oder an Server der Clarity UG bzw. unserer Partnerunternehmen übermittelt.
+
+
+###### Nutzung Ihrer personenbezogenen Daten:
+
+Die oben genannten Daten werden erhoben, um die Nutzung der Me App und ihrer Funktionen zu analysieren. Auf der Grundlage dieser Analysen werden die Funktionen sowie die Nutzungserfahrung der App verbessert. Außerdem werden die Daten erhoben, um zu gewährleisten, dass sämtliche Funktionen und Dienste der Me App ordnungsgemäß funktionieren.
+
+Alle oben genannten Daten werden pseudonymisiert erhoben. Sie werden nicht mit Ihrer Person in Verbindung gebracht.
+
+
+###### Rechtsgrundlage:
+
+Die Rechtsgrundlage für diese Datenverarbeitung ist Ihre Einwilligung in die Datenschutzerklärung für die Nutzung der Me App. (Artikel 6 (1)(a) DSGVO)
+
+Die Verarbeitung der gelisteten Datenpunkte im Rahmen der Nutzung der Me App ist zwingend erforderlich. Eine Nichtbereitstellung der erforderlichen Daten führt dazu, dass der Installationsprozess nicht abgeschlossen werden kann und Sie somit die Me App nicht nutzen können.
+
+Wir fragen nur Daten ab, die für den genannten Zweck unbedingt erforderlich sind.
+
+
+###### Dauer der Speicherung:
+
+Ihre Daten werden gespeichert, bis der Zweck ihrer ursprünglichen Erhebung entfällt.
+
+
+###### Involvierte externe Auftragsverarbeiter:
+
+Zur Vermarktung der Me App werden die Dienstleistungen folgender Anbieter von externen Werbeplattformen in Anspruch genommen:
+
+
+
+* AppsFlyer Ltd. Die Datenschutzerklärung der Google LLC finden Sie unter: [https://www.appsflyer.com/legal/processing-customer-data/](https://www.appsflyer.com/legal/processing-customer-data/)
+* Google LLC bzw. Google Ireland Limited im Europäischen Raum. Die Datenschutzerklärung der Google LLC finden Sie unter: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+
+    Mehr Informationen zur spezifisch genutzten Dienstleistung namens “Analytics” finden sich hier: [https://support.google.com/analytics/answer/9234069?hl=en](https://support.google.com/analytics/answer/9234069?hl=en)
+
+* Apple Inc. Die Datenschutzerklärung der Apple Inc. finden Sie unter: 
+
+    [https://www.apple.com/legal/privacy/](https://www.apple.com/legal/privacy/)
+
+* Meta Platforms Inc. Die Datenschutzerklärung der Meta Platforms Inc. finden Sie unter:
+
+	[https://www.facebook.com/privacy/policy/](https://www.facebook.com/privacy/policy/)
+
+
+
+* Wir nutzen Dienste der Amazon Web Services EMEA SARL, ("AWS Europe"). Die Datenverarbeitung erfolgt innerhalb der Europäischen Union und unter Einhaltung der datenschutzrechtlichen Bestimmungen. Die Datenschutzerklärung der Amazon Web Services EMEA SARL, ("AWS Europe") finden Sie unter: [https://aws.amazon.com/de/privacy/](https://aws.amazon.com/de/privacy/)
+
+
+## § 11 Erhöhung der Reichweite
+
+
+###### Verarbeitete Kategorien von personenbezogenen Daten:
+
+Wenn Sie durch eine Werbeanzeige einer unserer online Marketing-Kampagnen auf die Me App aufmerksam wurden und die Me App nach einem Klick auf diese Anzeige herunterladen und einrichten, werden folgende Datenpunkte mit dem Anbieter der externen Werbeplattform geteilt, sowie an einen Server der Clarity UG gesendet:
+
+
+
+* IP-Adresse Ihres Endgeräts
+* eine pseudonymisierte ID, die vom Werbetreibenden vergeben wurde
+* die Information, ob die Me App auf Ihrem mobilen Endgerät heruntergeladen und installiert wurde und wie oft die Me App geöffnet und genutzt wird
+* die Kennung der Werbekampagne, über die Sie auf die Me App aufmerksam wurden (z. B. über soziale Medien oder in einem Online-Artikel) 
+* Ihre Bewertung der Me App in den verschiedenen App Stores
+* Ihre geografische Lage
+* Datum und Uhrzeit
+
+
+###### Nutzung Ihrer personenbezogenen Daten:
+
+Wenn Sie die Me App nutzen, werden bestimmte Informationen über Ihr Nutzungsverhalten erhoben (jedoch ohne personenbezogene Gesundheitsdaten), um nachvollziehen zu können, wie Personen online auf die Me App aufmerksam werden. So können wir die richtigen Informationen mit Ihnen und anderen potentiellen Nutzer:innen teilen. Haben Sie die Me App beispielsweise bereits heruntergeladen, erhalten Sie online keine Werbeaufforderungen mehr zum Herunterladen der Me App. Anhand dieser Informationen erhalten wir auch Erkenntnisse darüber, wie wir die Reichweite der Me App erhöhen können. Wir verwenden hierbei jedoch ausschließlich pseudonymisierte Daten. Sensible, persönliche Daten, sowie Gesundheitsdaten werden zu diesem Zweck niemals an Werbetreibende oder andere Dritte weitergegeben.
+
+
+###### Rechtsgrundlage:
+
+Die Rechtsgrundlage für diese Datenverarbeitung ist Ihre Einwilligung in die Datenschutzerklärung für die Nutzung der Me App. (Artikel 6 (1)(a) DSGVO)
+
+Die Verarbeitung der gelisteten Datenpunkte im Rahmen der Nutzung der Me App ist zwingend erforderlich. Eine Nichtbereitstellung der erforderlichen Daten führt dazu, dass der Installationsprozess nicht abgeschlossen werden kann und Sie somit die Me App nicht nutzen können.
+
+Wir fragen nur Daten ab, die für den genannten Zweck unbedingt erforderlich sind.
+
+
+###### Dauer der Speicherung:
+
+Ihre Daten werden gespeichert, bis der Zweck ihrer ursprünglichen Erhebung entfällt.
+
+
+###### Involvierte externe Auftragsverarbeiter:
+
+Zur Vermarktung der Me App werden die Dienstleistungen folgender Anbieter von externen Werbeplattformen in Anspruch genommen:
+
+
+
+* Google LLC bzw. Google Ireland Limited im Europäischen Raum. Die Datenschutzerklärung der Google LLC finden Sie unter: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+
+    Mehr Informationen zur spezifisch genutzten Dienstleistung namens “Analytics” finden sich hier: [https://support.google.com/analytics/answer/9234069?hl=en](https://support.google.com/analytics/answer/9234069?hl=en)
+
+* Apple Inc. Die Datenschutzerklärung der Apple Inc. finden Sie unter: 
+
+    [https://www.apple.com/legal/privacy/](https://www.apple.com/legal/privacy/)
+
+* Meta Platforms Inc. Die Datenschutzerklärung der Meta Platforms Inc. finden Sie unter:
+
+	[https://www.facebook.com/privacy/policy/](https://www.facebook.com/privacy/policy/)
+
+
+
+* Wir nutzen Dienste der Amazon Web Services EMEA SARL, ("AWS Europe"). Die Datenverarbeitung erfolgt innerhalb der Europäischen Union und unter Einhaltung der datenschutzrechtlichen Bestimmungen. Die Datenschutzerklärung der Amazon Web Services EMEA SARL, ("AWS Europe") finden Sie unter: [https://aws.amazon.com/de/privacy/](https://aws.amazon.com/de/privacy/)
+
+
+## § 12 Ihre Rechte in Bezug auf Ihre Daten
 
 
 ###### Zugang und Datenübertragbarkeit: 
@@ -299,6 +567,14 @@ Sie haben das Recht, jederzeit eine Kopie aller Informationen zu anzufordern, di
 ###### Löschung und Einschränkung der Verarbeitung:
 
 Sie haben auch das Recht, die Löschung und/oder die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
+
+Sollten Sie den Wunsch haben, Ihre Daten aus der Me App, von den Servern der Clarity UG und unseren Partnerunternehmen zu löschen, können Sie dies durch eine Löschung Ihres Benutzerkontos in den Einstellungen der Me App veranlassen.
+
+Bitte beachten Sie, dass ein einfaches Deinstallieren der Me App von Ihrem Endgerät lediglich Ihre lokal gespeicherten Daten löscht. Sollten Sie Funktionen innerhalb der Me App verwendet haben, die eine Verarbeitung oder Speicherung von Daten außerhalb Ihres Endgeräts erfordern, können diese nur im Zuge einer Löschung Ihres Benutzerkontos gelöscht werden.
+
+Sie allein entscheiden, wie lange Ihre Daten innerhalb der Me App gespeichert werden.
+
+Sollten Sie wünschen, dass Ihre zufällige Konto-ID zur Nutzung von Funktionen, welche eine Datenverarbeitung auf Servern erfordern, gelöscht wird, ohne dass Ihr Benutzerkonto gelöscht werden soll, teilen Sie uns dies bitte schriftlich mit. Sie können Ihre zufällige Konto-ID in den Einstellungen der Me App einsehen. Bitte übersenden Sie uns diese ID, sodass sie gelöscht werden kann.
 
 
 ###### Widerspruch gegen die Verarbeitung:
@@ -315,7 +591,7 @@ Gegen die Datenverarbeitung kann aus Gründen, die sich aus der besonderen Situa
 Um diese Rechte auszuüben, wenden Sie sich bitte schriftlich an den für die Verarbeitung Verantwortlichen unter der oben genannten Adresse.
 
 
-## § 9 Beschwerderecht bei einer Aufsichtsbehörde
+## § 13 Beschwerderecht bei einer Aufsichtsbehörde
 
 Unbeschadet anderer administrativer oder gerichtlicher Rechtsbehelfe haben Sie das Recht, sich bei einer Datenschutzbehörde zu beschweren. Dazu können Sie sich an die zuständige Datenschutzbehörde Ihres üblichen Aufenthaltsortes oder unseres Hauptsitzes wenden. Die Anschrift der für die Clarity UG zuständigen Aufsichtsbehörde lautet:
 
