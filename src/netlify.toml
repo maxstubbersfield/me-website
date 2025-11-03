@@ -1,3 +1,10 @@
+# Exception for /open (universal link)
+[[redirects]]
+  from = "/open"
+  to = "/open"
+  status = 200
+  force = true
+  
 # Home page - de
 [[redirects]]
   from = "/"
