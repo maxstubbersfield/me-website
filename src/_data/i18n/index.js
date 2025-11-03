@@ -218,5 +218,11 @@ module.exports = {
                 de: "Die Kontrolle über die Daten, welche du in der Me App anlegst, liegt allein bei dir. \n\nDu kannst sie jederzeit löschen, indem du dein Benutzerkonto löschst. Befolge dazu folgende Schritte:\n1. Öffne die Me App\n2. Navigiere auf die Ansicht \"Mindspace\"\n3. Navigiere zu den Einstellungen (klicke auf das Zahnrad oben rechts)\n4. Klicke auf den Knopf im unteren Teil der Einstellungen mit der Aufschrift \"Benutzerkonto löschen\"\n5. Tippe, wie aufgefordert, das Wort \"löschen\" ein und bestätige die Löschung\n\nWenn du die Me App bereits von deinem Gerät gelöscht hast, und bestimmte Funktionen verwendet hast, die eine Verarbeitung oder Speicherung von Daten auf Servern der Clarity UG oder unseren Partnern erfordern, kannst du eine Löschung dieser Daten veranlassen, indem du uns deine zufällige Konto-ID mitteilst. Bitte sende uns eine Email an knowyourself.meapp@gmail.com, sodass wir die Löschung veranlassen können.\n\nBedenke außerdem: Wenn du verschlüsselte Backups deiner Daten angelegt hast, müssen diese von dir manuell gelöscht werden."
             }
         }
+    },
+    open: {
+        title: {
+            en: "Redirecting you to the app...",
+            de: "Weiterleitung zur App..."
+        }
     }
 };

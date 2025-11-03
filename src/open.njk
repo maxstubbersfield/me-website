@@ -1,0 +1,96 @@
+---
+permalink: '/open'
+eleventyExcludeFromCollections: true
+layout: false
+---
+
+<!DOCTYPE html>
+<!-- The 'lang' attribute is now dynamically set by Nunjucks -->
+<html lang="{{ lang or 'en' }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Me App</title>
+    <!-- Load Tailwind CSS from CDN for styling -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Optional: Set a clean, modern font */
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+    </style>
+    <!-- Add Inter font via CDN -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body class="bg-gray-50 flex items-center justify-center min-h-screen p-4">
+
+    <!-- Main Card Container -->
+    <div class="w-full max-w-lg bg-white shadow-2xl rounded-xl p-8 md:p-10 text-center transition-all duration-300 transform scale-100 hover:scale-[1.01]">
+        
+        <div class="mx-auto w-16 h-16 bg-indigo-600 rounded-full flex items-center justify-center mb-6">
+            <img src="/assets/images/logo/me_logo.svg" alt="Me logo" height="72" class="light-version-logo">
+        </div>
+
+        <!-- Text content injected via Nunjucks -->
+        <h1 class="text-3xl font-bold text-gray-800 mb-3" id="main-title">{{ i18n[lang].open.title }}</h1>
+
+        <!-- Loading indicator -->
+        <div class="mb-8">
+            <div class="mx-auto w-8 h-8 border-4 border-indigo-200 border-t-indigo-600 rounded-full animate-spin"></div>
+        </div>
+    </div>
+
+    <script>
+        const DEEP_LINK_URI = "me.knowyourself.app.me://open";
+        const IOS_STORE_URL = "https://apps.apple.com/app/your-app-name/id1620948275";
+        const ANDROID_STORE_URL = "https://play.google.com/store/apps/details?id=me.knowyourself.app.me";
+
+        function getOS() {
+            const userAgent = navigator.userAgent || navigator.vendor || window.opera;
+
+            if (/android/i.test(userAgent)) {
+                return 'Android';
+            }
+            if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
+                return 'iOS';
+            }
+            return 'Other';
+        }
+
+        function handleRedirect() {
+            const os = getOS();
+            let fallbackUrl = null;
+
+            // Note: The main HTML text is already localized by Nunjucks.
+            // We only need to update the text for the edge case (desktop).
+
+            if (os === 'Android') {
+                fallbackUrl = ANDROID_STORE_URL;
+            } else if (os === 'iOS') {
+                fallbackUrl = IOS_STORE_URL;
+            } else {
+                fallbackUrl = 'https://www.know-yourself.me';
+
+                // Hide the spinner
+                document.querySelector('.animate-spin').style.display = 'none';
+                return; // Stop execution
+            }
+
+            // Attempt the Deep Link
+            window.location.href = DEEP_LINK_URI;
+
+            // Set Fallback Timer
+            const timeout = 750;
+            setTimeout(() => {
+                // If the deep link failed (app not installed) and the page is still visible, redirect to the store.
+                if (document.visibilityState === 'visible') {
+                    window.location.href = fallbackUrl;
+                }
+            }, timeout);
+        }
+
+        // Run the redirection logic as soon as the DOM content is loaded
+        document.addEventListener('DOMContentLoaded', handleRedirect);
+    </script>
+</body>
+</html>
