@@ -1,0 +1,26 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "me.knowyourself.app.me",
+            "sha256_cert_fingerprints": [
+                "7B:EA:EB:18:42:00:AA:66:68:F4:7A:FE:9B:05:3D:60:26:AC:8D:5F:9D:EF:83:70:44:48:F2:88:CB:34:07:A8"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "me.knowyourself.app.me.dev",
+            "sha256_cert_fingerprints": [
+                "2B:E3:5D:68:D1:14:47:63:E1:1C:71:3F:B4:2B:C1:49:04:9E:5E:9A:65:C8:3A:B2:69:31:33:73:83:24:20:B8"
+            ]
+        }
+    }
+]

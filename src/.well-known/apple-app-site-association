@@ -1,0 +1,19 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "6R64986TC5.me.knowyourself.app.me",
+                "paths": [
+                    "/open/*"
+                ]
+            },
+            {
+                "appID": "6R64986TC5.me.knowyourself.app.me.dev",
+                "paths": [
+                    "/open/*"
+                ]
+            }
+        ]
+    }
+}

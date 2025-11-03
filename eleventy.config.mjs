@@ -26,6 +26,7 @@ export default function (eleventyConfig) {
 
   // Pass-through copy
   eleventyConfig.addPassthroughCopy("src/assets/");
+  eleventyConfig.addPassthroughCopy("src/.well-known/");
   eleventyConfig.addPassthroughCopy("src/netlify.toml");
 
   // Watch targets
