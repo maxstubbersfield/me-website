@@ -1,7 +1,7 @@
 # Datenschutzerklärung für die Nutzung der Me App
 
 
-###### (Version 1.7, Oktober 2025)
+###### (Version 1.8, Oktober 2025)
 
 Die Me App ("Me" / "die App") ist ein Produkt der Clarity UG ("Wir" / "Uns"). Sie bietet Ihnen die Möglichkeit, Ihr Wohlbefinden und Ihre Lebenssituation zu reflektieren, indem Sie Tagebuch führen, psychologische Messwerte erfassen und Selbstreflexionsübungen absolvieren. Zusätzlich wird die Selbstreflexion und Persönlichkeitsentwicklung durch psychoedukative Lerninhalte gefördert, die sowohl von der Clarity UG als auch von Drittanbietern zur Verfügung gestellt werden. Die dadurch und durch das Führen von Protokollen gesammelten Informationen werden in Ihrem Profil innerhalb der Me App gespeichert. 
 
@@ -25,8 +25,9 @@ Die Verarbeitung Ihrer Daten dient ausschließlich dem Zweck des Journalings und
 9. Import von Fitness- & Wellness-Daten in die Me App
 10. Verbesserung des Produktes
 11. Erhöhung der Reichweite
-12. Ihre Rechte in Bezug auf Ihre Daten
-13. Beschwerderecht bei einer Aufsichtsbehörde
+12. Management unserer Kundenbeziehungen
+13. Ihre Rechte in Bezug auf Ihre Daten
+14. Beschwerderecht bei einer Aufsichtsbehörde
 
 Im Folgenden finden Sie die wesentlichen Informationen über die Verarbeitung Ihrer Daten in der Me App und Ihre damit verbundenen Rechte. Bitte lesen Sie diese Datenschutzerklärung sorgfältig durch, bevor Sie Ihr Einverständnis dazu geben.
 
@@ -59,8 +60,6 @@ Manche Funktionen innerhalb der Me App können jedoch nur angeboten werden, inde
 Zu diesem Zweck wird für jedes Benutzerkonto, welches diese Funktionen verwendet, eine zufällige Konto-ID erstellt, welche deren Benutzerkonten eindeutig zugewiesen wird. 
 
 Mit Ihrer zufälligen Konto-ID können Sie sich pseudonymisiert gegenüber den Servern der Clarity UG oder den Servern unserer Partnerunternehmen authentifizieren.
-
-Auf den Servern der Clarity UG werden Ihrer zufälligen Konto-ID keine weiteren personenbezogenen Datenpunkte zugeordnet, sodass Sie gegenüber der Clarity UG pseudonymisiert bleiben.
 
 Die Funktionen, welche eine Datenverarbeitung auf Servern erfordern, werden in den folgenden Paragraphen einzeln beschrieben.
 
@@ -248,12 +247,16 @@ Die bei der Abgabe des Feedbacks verarbeiteten Daten werden von folgenden extern
 
 Die Me App bietet Ihnen die Möglichkeit, die Daten zu sichern, die Sie während des Tagebuchschreibens und der Durchführung von Selbstreflexionsübungen in die App eingeben. Bei dieser Datenverarbeitung wird eine Kopie Ihrer lokalen Datenbank erstellt und verschlüsselt. Mit der App können Sie diese verschlüsselte Sicherungskopie an den Datenspeicher eines Drittanbieters exportieren. Die Verschlüsselung der Sicherungskopie kann nur mit dem "Wiederherstellungs-Schlüssel" entschlüsselt werden, welcher nur für Ihr Benutzerprofil generiert wurde und Ihnen im Abschnitt "Einstellungen" der Me-App bereitgestellt wird.
 
+Für Nutzer:innen der Premium-Version der Me App, welche die automatische Backup-Funktion auf Android-Geräten nutzen, wird die E-Mail-Adresse Ihres Google-Kontos abgerufen, damit Sie erkennen können, mit welchem Konto Sie angemeldet sind. Die E-Mail-Adresse wird weder gespeichert noch an Dritte weitergegeben.
+
 
 ###### Nutzung Ihrer personenbezogenen Daten:
 
 Da Ihre persönlichen Daten ausschließlich lokal auf Ihrem Endgerät verarbeitet und verschlüsselt gespeichert werden, können Ihre Daten nicht wiederhergestellt werden, falls Ihr Endgerät nicht mehr funktioniert oder Ihnen nicht mehr zur Verfügung steht. Sollten Sie Ihr Endgerät wechseln, ermöglicht Ihnen eine exportierte und verschlüsselte Sicherungskopie Ihrer Daten, Ihre Daten auf ein neues Endgerät zu übertragen.
 
-Durch die regelmäßige automatisierte Speicherung einer verschlüsselten Sicherungskopie besteht keine Gefahr, dass persönliche Daten auf Grund von Nachlässigkeiten verloren gehen.
+Durch die regelmäßige automatisierte Speicherung einer verschlüsselten Sicherungskopie besteht keine Gefahr, dass persönliche Daten aufgrund von Nachlässigkeiten verloren gehen.
+
+Für Nutzer:innen der Premium-Version der Me App, die die automatische Backup-Funktion auf Android-Geräten nutzen, greift die Me-App auf einen eigens dafür angelegten Ordner (appdata) in Ihrer Google Drive zu. Die Me App liest den Inhalt dieses Ordners, um nach Backups zu suchen, und synchronisiert auch Daten aus der Me-App mit diesem Ordner. Sie greift nicht auf andere Ordner oder Dateien in Ihrer Google Drive zu. Die in diesem Ordner gespeicherten Daten sind verschlüsselt. Dieser Ordner bleibt in Ihrer Google Drive gespeichert, sodass die Daten jederzeit wiederhergestellt werden können. Sie können ihn auch manuell über Google Drive löschen, wenn Sie dies wünschen.
 
 
 ###### Rechtsgrundlage:
@@ -556,7 +559,53 @@ Zur Vermarktung der Me App werden die Dienstleistungen folgender Anbieter von ex
 * Wir nutzen Dienste der Amazon Web Services EMEA SARL, ("AWS Europe"). Die Datenverarbeitung erfolgt innerhalb der Europäischen Union und unter Einhaltung der datenschutzrechtlichen Bestimmungen. Die Datenschutzerklärung der Amazon Web Services EMEA SARL, ("AWS Europe") finden Sie unter: [https://aws.amazon.com/de/privacy/](https://aws.amazon.com/de/privacy/)
 
 
-## § 12 Ihre Rechte in Bezug auf Ihre Daten
+## § 12 Management unserer Kundenbeziehungen
+
+
+###### Verarbeitete Kategorien von personenbezogenen Daten:
+
+Bei der Einrichtung Ihres Benutzerkontos in der Me App wird Ihre Email-Adresse an einen Server der Clarity UG gesendet. Dort wird Ihre Email-Adresse mit Daten über Ihr Nutzungsverhalten zusammengeführt (siehe §11 Erhöhung der Reichweite).
+
+
+###### Nutzung Ihrer personenbezogenen Daten:
+
+Bei der Einrichtung Ihres Benutzerkontos in der Me App werden Sie dazu aufgefordert, Ihre Email-Adresse anzugeben, sowie den Erhalt einer Bestätigungs-Email durch das Klicken auf einen Link zu bestätigen.
+
+Ihre Email-Adresse wird genutzt, um mit Ihnen per Email in Kontakt zu treten, um Sie über für Sie interessante Produktmerkmale, Neuerungen, sowie spezielle Angebote oder Rabattaktionen zu informieren.
+
+Sie können Ihr Einverständnis zum Erhalt dieser Emails jederzeit widerrufen, indem Sie auf eine Email antworten und um Einstellung der Benachrichtigungen bitten.
+
+Ihre Email-Adresse wird zu keinem Zeitpunkt dazu genutzt, um Ihre Gesundheitsdaten oder Daten aus Ihrem Tagebuch mit Ihrer Person in Verbindung zu bringen (siehe §2 Lokale Datenverarbeitung)
+
+
+###### Rechtsgrundlage:
+
+Die Rechtsgrundlage für diese Datenverarbeitung ist Ihre Einwilligung in die Datenschutzerklärung für die Nutzung der Me App. (Artikel 6 (1)(a) DSGVO)
+
+Die Verarbeitung der gelisteten Datenpunkte im Rahmen der Nutzung der Me App ist zwingend erforderlich. Eine Nichtbereitstellung der erforderlichen Daten führt dazu, dass der Installationsprozess nicht abgeschlossen werden kann und Sie somit die Me App nicht nutzen können.
+
+Wir fragen nur Daten ab, die für den genannten Zweck unbedingt erforderlich sind.
+
+
+###### Dauer der Speicherung:
+
+Ihre Daten werden gespeichert, bis der Zweck ihrer ursprünglichen Erhebung entfällt.
+
+
+###### Involvierte externe Auftragsverarbeiter:
+
+Ihre Email-Adresse wird mit zwei Anbietern von Dienstleistungen zum Management von Kundenbeziehungen (CRM) geteilt:
+
+
+
+* Google LLC bzw. Google Ireland Limited im Europäischen Raum. Die Datenschutzerklärung der Google LLC finden Sie unter: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+
+    Mehr Informationen zur spezifisch genutzten Dienstleistung namens “Firebase” finden sich hier: [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)
+
+* OneSignal Inc. Die Datenschutzerklärung der OneSignal Inc. finden Sie unter: [https://onesignal.com/privacy_policy](https://onesignal.com/privacy_policy)
+
+
+## § 13 Ihre Rechte in Bezug auf Ihre Daten
 
 
 ###### Zugang und Datenübertragbarkeit: 
@@ -591,7 +640,7 @@ Gegen die Datenverarbeitung kann aus Gründen, die sich aus der besonderen Situa
 Um diese Rechte auszuüben, wenden Sie sich bitte schriftlich an den für die Verarbeitung Verantwortlichen unter der oben genannten Adresse.
 
 
-## § 13 Beschwerderecht bei einer Aufsichtsbehörde
+## § 14 Beschwerderecht bei einer Aufsichtsbehörde
 
 Unbeschadet anderer administrativer oder gerichtlicher Rechtsbehelfe haben Sie das Recht, sich bei einer Datenschutzbehörde zu beschweren. Dazu können Sie sich an die zuständige Datenschutzbehörde Ihres üblichen Aufenthaltsortes oder unseres Hauptsitzes wenden. Die Anschrift der für die Clarity UG zuständigen Aufsichtsbehörde lautet:
 

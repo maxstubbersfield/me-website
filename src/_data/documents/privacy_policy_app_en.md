@@ -1,7 +1,7 @@
 # Privacy Policy for the use of the Me App
 
 
-###### (Version 1.7, October 2025)
+###### (Version 1.8, October 2025)
 
 The Me App ("Me" / "the App") is a product of the Clarity UG (“We”/ “Us”). It offers you the opportunity to self-reflect on your well-being and your life situation through journaling, tracking psychological metrics and completing self-reflection exercises. Additionally the self-reflection & personality development is fostered by psychoeducational learning content that is both provided by the Clarity UG and third party content partners. The information that is gathered by that and by journaling is stored in your profile within the Me App. 
 
@@ -25,9 +25,10 @@ The processing of your data serves exclusively the purpose of journaling and sel
 9. Import of fitness & wellness data into the Me app
 10. Product Improvement
 11. Increasing the reach
-12. Your rights in relation to your data
-13. Right of complaint to a supervisory authority
-14. Other
+12. Management of our customer relationships
+13. Your rights in relation to your data
+14. Right of complaint to a supervisory authority
+15. Other
 
 Below you will find the essential information about the processing of your data in the Me App and your rights associated with it. Please read this privacy statement carefully, before giving your consent to it.
 
@@ -60,8 +61,6 @@ However, some functions within the Me App can only be offered by sending certain
 For each user account that uses these functions, a random account ID is created and assigned to their user accounts. 
 
 You can use your random account ID to authenticate yourself pseudonymously to the servers of Clarity UG or our partner companies.
-
-No further personal data points are assigned to your random account ID on the servers of Clarity UG, so that you remain pseudonymized for Clarity UG.
 
 The functions that require data processing on servers are described individually in the following paragraphs.
 
@@ -252,12 +251,16 @@ The data processed during providing feedback are processed by:
 
 The Me App offers the functionality to backup the data that you enter into the app during journaling and completing self-reflection exercises. During this data processing a copy of your local database is created and encrypted. The app lets you export this encrypted backup to a third party data storage location. The encryption of the backup can only be decrypted with the “Recovery Key” that is unique to your user profile and provided to you in the “Settings” section of the Me App.
 
+For users of the Premium version of the Me App, that use the automatic backup functionality on Android devices the email address of your Google Account is retrieved, so you can identify which account you are signed in with. The email address is not stored or shared with any third parties.
+
 
 ###### Usage of your personal data:
 
 Since your data is processed and stored encrypted exclusively locally on your smartphone, your data can not be restored in the event of your smartphone being not functional or available to you anymore. Should you change your smartphone an exported and encrypted backup of your data enables you to transfer your data onto a new smartphone.
 
 With regular automated storage of an encrypted backup, there is no risk of losing personal data due to carelessness.
+
+For users of the Premium version of the Me App, that use the automatic backup functionality on Android devices the Me app accesses it's own folder (appdata) in your Google Drive. The Me app reads the contents of this folder to check for backups and also synchronizes data from the Me app to this folder. It does not access any other folders or data in your Google Drive. The data stored in this folder is encrypted. ⁠This folder will remain on your Google Drive so the data can always be restored. It can also be manually deleted by you through Google Drive if you so choose.
 
 
 ###### Legal basis: 
@@ -565,7 +568,56 @@ The services of the following external advertising platform providers are used t
 
 
 
-## § 12 Your rights in relation to your data
+## § 12 Management of our customer relationships
+
+
+###### Involved categories of personal data:
+
+When setting up your user account in the Me App, your email address is sent to a server of Clarity UG. There, your email address is merged with data about your usage behavior (see §11 Increasing the reach).
+
+
+###### Usage of your personal data:
+
+When setting up your user account in the Me App, you will be asked to provide your email address and confirm the receipt of a confirmation email by clicking on a link.
+
+Your email address will be used for the purpose of contacting you via email to inform you about product features, novelties, special offers, or discounts that may be of interest to you.
+
+You can revoke your consent to receive these emails at any time by replying to an email and requesting that no further messages are sent.
+
+Your email address will never be used to link your health data or data from your diary to your person (see §2 Local Data processing).
+
+
+###### Legal basis: 
+
+The legal basis for this data processing is your consent to the privacy policy for the use of the Me App. (Article 6 (1)(a) GDPR)
+
+The processing of the listed data points in the context of using the Me App is obligatory for using the Me App. Any failure to supply the data required will block the finalization of the checkout process and thus your ability to use the Me App.
+
+We only request your personal data which is necessarily required to complete the checkout. Besides that, all personal data not necessarily to be stored on our servers will be solely stored on your smartphone.
+
+
+###### Duration of storage: 
+
+Your data will be stored until the purpose for which it was originally collected no longer applies.
+
+
+###### Involved third parties:
+
+Your email address will be shared with two providers of customer relationship management (CRM) tools:
+
+
+
+* Google LLC or Google Ireland Limited in the European area. The privacy policy of Google LLC can be found at: 
+
+    [https://policies.google.com/privacy](https://policies.google.com/privacy)
+
+
+    More information about the specific service used, called “Firebase,” can be found here: [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)
+
+* OneSignal Inc. The privacy policy of OneSignal Inc. can be found at: [https://onesignal.com/privacy_policy](https://onesignal.com/privacy_policy)
+
+
+## § 13 Your rights in relation to your data
 
 
 ###### Access and data portability: 
@@ -600,7 +652,7 @@ The data processing may be objected to for reasons arising from the specific sit
 To exercise these rights, please contact the data controller via written notification to the address mentioned above.
 
 
-## § 13 Right of complaint to a supervisory authority
+## § 14 Right of complaint to a supervisory authority
 
 Without prejudice to any other administrative or judicial remedy, you have the right to complain to a data protection authority. You may do so by contacting the data protection authority in your usual place of residence or at our headquarters. The address of the supervisory authority responsible for the Clarity UG is:
 
@@ -610,6 +662,6 @@ Friedrichstraße 219 \
 Germany
 
 
-## § 14 Other
+## § 15 Other
 
 In the event of any inconsistency or conflict between the English version and the German version of this Privacy Policy for the use of the Me App, the German version shall prevail.
