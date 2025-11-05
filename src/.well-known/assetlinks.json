@@ -7,7 +7,8 @@
             "namespace": "android_app",
             "package_name": "me.knowyourself.app.me",
             "sha256_cert_fingerprints": [
-                "7B:EA:EB:18:42:00:AA:66:68:F4:7A:FE:9B:05:3D:60:26:AC:8D:5F:9D:EF:83:70:44:48:F2:88:CB:34:07:A8"
+                "7B:EA:EB:18:42:00:AA:66:68:F4:7A:FE:9B:05:3D:60:26:AC:8D:5F:9D:EF:83:70:44:48:F2:88:CB:34:07:A8",
+                "79:6C:C4:B7:3F:C1:6B:3F:AD:32:29:65:EC:8E:03:34:05:78:9F:8D:FD:B4:8D:27:9E:44:53:15:55:D6:7A:F4"
             ]
         }
     },
