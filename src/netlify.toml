@@ -1,3 +1,18 @@
+# Exception for universal links
+# Android App Links
+[[redirects]]
+  from = "/.well-known/assetlinks.json"
+  to = "/.well-known/assetlinks.json"
+  status = 200
+  force = true 
+
+# iOS Universal Links
+[[redirects]]
+  from = "/.well-known/apple-app-site-association"
+  to = "/.well-known/apple-app-site-association"
+  status = 200
+  force = true
+
 # Exception for /open (universal link)
 [[redirects]]
   from = "/open"
