@@ -1,7 +1,7 @@
 # Privacy Policy for the use of the Me App
 
 
-###### (Version 1.8, October 2025)
+###### (Version 1.9, August 2026)
 
 The Me App ("Me" / "the App") is a product of the Clarity UG (“We”/ “Us”). It offers you the opportunity to self-reflect on your well-being and your life situation through journaling, tracking psychological metrics and completing self-reflection exercises. Additionally the self-reflection & personality development is fostered by psychoeducational learning content that is both provided by the Clarity UG and third party content partners. The information that is gathered by that and by journaling is stored in your profile within the Me App. 
 
@@ -430,6 +430,19 @@ The data processed as part of the import of fitness & wellness data is processed
 
     The privacy policy of Adept Labs, Inc. can be found at: [https://tryvital.io/privacy](https://tryvital.io/privacy)
 
+
+
+###### Google Health Connect data
+
+If you choose to connect Google Health Connect and grant permission, the Me App accesses and collects sleep data, resting heart-rate data, and heart-rate-variability data from Health Connect. Access is optional and only begins after your affirmative consent.
+
+This data is used solely to import, display, and analyze your fitness and wellness information alongside data stored in the Me App. It is not sold or used for advertising, marketing, credit decisions, or analytics.
+
+We use Vital, a service provided by Adept Labs, Inc., to synchronize this data. A pseudonymized copy is transmitted to and stored on Vital’s servers so that historical and ongoing synchronization can be provided. Data is transmitted using encrypted HTTPS/TLS connections. Clarity UG’s servers store only the randomly generated identifier needed to associate the Me App with the Vital account.
+
+Health data downloaded to the Me App is stored locally and encrypted on your device.
+
+You can revoke access through Google Health Connect under App permissions → Me. Revoking access prevents future access but does not automatically delete data already imported or stored by Vital. To delete that data, disconnect the tracker or delete your Me App account under Settings → Delete account. Uninstalling the app alone does not delete data stored by Vital.
 
 
 ## § 10 Product improvement

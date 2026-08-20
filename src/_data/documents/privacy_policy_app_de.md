@@ -1,7 +1,7 @@
 # Datenschutzerklärung für die Nutzung der Me App
 
 
-###### (Version 1.8, Oktober 2025)
+###### (Version 1.9, August 2026)
 
 Die Me App ("Me" / "die App") ist ein Produkt der Clarity UG ("Wir" / "Uns"). Sie bietet Ihnen die Möglichkeit, Ihr Wohlbefinden und Ihre Lebenssituation zu reflektieren, indem Sie Tagebuch führen, psychologische Messwerte erfassen und Selbstreflexionsübungen absolvieren. Zusätzlich wird die Selbstreflexion und Persönlichkeitsentwicklung durch psychoedukative Lerninhalte gefördert, die sowohl von der Clarity UG als auch von Drittanbietern zur Verfügung gestellt werden. Die dadurch und durch das Führen von Protokollen gesammelten Informationen werden in Ihrem Profil innerhalb der Me App gespeichert. 
 
@@ -428,6 +428,19 @@ Die im Rahmen des Imports von Fitness- & Wellness-Daten verarbeiteten Daten werd
 
     Die Datenschutzerklärung der Adept Labs, Inc. finden Sie unter: [https://tryvital.io/privacy](https://tryvital.io/privacy)
 
+
+
+###### Google Health Connect-Daten
+
+Wenn Sie Google Health Connect verbinden und die entsprechende Berechtigung erteilen, greift die Me App auf Schlafdaten, Ruheherzfrequenzdaten und Daten zur Herzfrequenzvariabilität aus Health Connect zu und erhebt diese. Der Zugriff ist optional und beginnt erst nach Ihrer ausdrücklichen Einwilligung.
+
+Diese Daten werden ausschließlich dazu verwendet, Ihre Fitness- und Gesundheitsinformationen zu importieren, anzuzeigen und gemeinsam mit den in der Me App gespeicherten Daten auszuwerten. Sie werden weder verkauft noch für Werbung, Marketing, Kreditentscheidungen oder Analysen verwendet.
+
+Zur Synchronisierung dieser Daten nutzen wir Vital, einen Dienst der Adept Labs, Inc. Eine pseudonymisierte Kopie wird an die Server von Vital übermittelt und dort gespeichert, um sowohl die Synchronisierung historischer Daten als auch die fortlaufende Synchronisierung zu ermöglichen. Die Datenübertragung erfolgt über verschlüsselte HTTPS-/TLS-Verbindungen. Auf den Servern der Clarity UG wird lediglich die zufällig generierte Kennung gespeichert, die erforderlich ist, um die Me App mit dem Vital-Konto zu verknüpfen.
+
+Gesundheitsdaten, die in die Me App heruntergeladen werden, werden lokal und verschlüsselt auf Ihrem Gerät gespeichert.
+
+Sie können den Zugriff in Google Health Connect unter „App-Berechtigungen → Me“ widerrufen. Durch den Widerruf wird der zukünftige Zugriff verhindert; bereits importierte oder von Vital gespeicherte Daten werden jedoch nicht automatisch gelöscht. Um diese Daten zu löschen, trennen Sie den Tracker oder löschen Sie Ihr Me-App-Konto unter „Einstellungen → Konto löschen“. Das alleinige Deinstallieren der App führt nicht zur Löschung der von Vital gespeicherten Daten.
 
 
 ## §10 Verbesserung des Produktes
